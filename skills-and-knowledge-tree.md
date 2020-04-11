@@ -1,4 +1,4 @@
-# Skills and Knowledge Tree
+# 🌱 Skills and Knowledge Tree
 
 This guide summarizes the knowledge and skills that you will need to develop along your career as a software engineer.
 

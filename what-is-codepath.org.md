@@ -4,7 +4,7 @@ description: >-
   offer to students, and why we look forward to working with you.
 ---
 
-# What is CodePath.org?
+# 💻 What is CodePath.org?
 
 ## Why CodePath.org?
 

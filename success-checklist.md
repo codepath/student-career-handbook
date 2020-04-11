@@ -1,4 +1,4 @@
-# Success Checklist
+# ✅ Success Checklist
 
 This guide provides a broad-ranging checklist to work towards a successful career as a software engineer.
 
