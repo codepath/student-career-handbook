@@ -2,7 +2,7 @@
 
 ## Why CodePath.org?
 
-CodePath.org isn’t about taking a class or a program. Our focus as an organization is to help every potential and current CS student accelerate their pathway to becoming a successful software engineer.
+CodePath.org isn’t about taking a class or a program. Our focus as an organization is to **help every potential and current CS student accelerate their pathway to becoming a successful software engineer**. And perhaps as importantly, to **work to transform and improve the tech industry** with all of your help each step along the way. 
 
 Over the past seven years, we've trained thousands of engineers within some of the biggest companies in Silicon Valley including Facebook, Netflix, Airbnb, Youtube, Dropbox, and more. We wanted to use that experience to create a bridge from the industry back to university students all across the United States.
 
