@@ -10,13 +10,13 @@ This guide summarizes the knowledge and skills that you will need to develop alo
 
 The knowledge and skills you need as a software engineer break down into several major categories:
 
-1. [**Team Collaboration and Cooperation**](https://codepath.hackmd.io/s/BkPikCsQN#1-Team-Collaboration-and-Cooperation) - How to work well with a team, be a good team member, coordinate your work with other engineers and resolve conflicts.
-2. [**Data Structures and Algorithms**](https://codepath.hackmd.io/s/BkPikCsQN#2-Data-Structures-and-Algorithms) - How to store and organize data in different ways and then solve many different types of problems using code.
-3. [**Technical Interviewing**](https://codepath.hackmd.io/s/BkPikCsQN#3-Technical-Interviewing) - How communicate clearly as you think through solving problems, asking the right questions, analyzing efficiency, and verifying solutions.
-4. [**Software Design Patterns**](https://codepath.hackmd.io/s/BkPikCsQN#4-Software-Design-Patterns) - How to structure and design code in order to make sure the code is high quality, well-organized, easy to understand and easy to change over time.
-5. [**System Architectures**](https://codepath.hackmd.io/s/BkPikCsQN#5-System-Architecture) - How different software systems all fit together and how to design them in order to be reliable, maintainable and efficient.
-6. [**Development Workflows**](https://codepath.hackmd.io/s/BkPikCsQN#6-Development-Workflows) - How to do specific processes common to writing software such as debugging when things go wrong, searching for possible solutions online, working with Git or other version control and more.
-7. [**Stack-Specific Knowledge**](https://codepath.hackmd.io/s/BkPikCsQN#7-Stack-Specific-Knowledge) - Knowledge of how to build things using particular technology and languages. For example, building iOS or Android apps, building web servers with Ruby on Rails, or writing Javascript.
+1. [**Team Collaboration and Cooperation**](skills-and-knowledge-tree.md#1-Team-Collaboration-and-Cooperation) - How to work well with a team, be a good team member, coordinate your work with other engineers and resolve conflicts.
+2. [**Data Structures and Algorithms**](skills-and-knowledge-tree.md#2-Data-Structures-and-Algorithms) - How to store and organize data in different ways and then solve many different types of problems using code.
+3. [**Technical Interviewing**](skills-and-knowledge-tree.md#3-Technical-Interviewing) - How communicate clearly as you think through solving problems, asking the right questions, analyzing efficiency, and verifying solutions.
+4. [**Software Design Patterns**](skills-and-knowledge-tree.md#4-Software-Design-Patterns) - How to structure and design code in order to make sure the code is high quality, well-organized, easy to understand and easy to change over time.
+5. [**System Architectures**](skills-and-knowledge-tree.md#5-System-Architecture) - How different software systems all fit together and how to design them in order to be reliable, maintainable and efficient.
+6. [**Development Workflows**](skills-and-knowledge-tree.md#6-Development-Workflows) - How to do specific processes common to writing software such as debugging when things go wrong, searching for possible solutions online, working with Git or other version control and more.
+7. [**Stack-Specific Knowledge**](skills-and-knowledge-tree.md#7-Stack-Specific-Knowledge) - Knowledge of how to build things using particular technology and languages. For example, building iOS or Android apps, building web servers with Ruby on Rails, or writing Javascript.
 
 ### 1. Team Collaboration and Cooperation <a id="1-Team-Collaboration-and-Cooperation"></a>
 
