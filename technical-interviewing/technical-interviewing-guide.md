@@ -2,8 +2,8 @@
 
 This post is meant to help computer science undergraduates looking for a software engineering internship in the summer. Applying to internships can be daunting, and this post will hopefully address some of the commonly asked questions. This post covers two questions:
 
-* What are most internship interviews like?
-* How should I prepare for them?
+* _**What are most technical internship interviews like?**_
+* _**How should I prepare for them?**_
 
 ![:wave:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/wave.png) **Note:** This post is adapted from the [post started here](http://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/). It has been modified and adapted from that post written by a student Louis Li.
 
