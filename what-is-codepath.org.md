@@ -6,12 +6,6 @@ description: >-
 
 # What is CodePath.org?
 
-{% hint style="success" %}
-As a 501\(3\)\(c\) non-profit educational organization, we are incredibly proud to share that **all of our programs and services are 100% no-cost for students** \(outside of the normal costs in the case of for-credit courses we provide at your campus\). This is a critical value for us, we remember first-hand how difficult it is in college, and would never want to limit participation in these programs. 
-
-In addition, we provide ample opportunities for students to step up into paid contracting roles, and pathways into their first technical internships and software roles.
-{% endhint %}
-
 ## Why CodePath.org?
 
 CodePath.org isn’t about taking a class or a program. Our focus as a non-profit organization is to **help every potential and current CS student accelerate their pathway to becoming a successful software engineer**. And perhaps as importantly, to **work to transform and improve the tech industry** with all of your help each step along the way. 
@@ -19,6 +13,12 @@ CodePath.org isn’t about taking a class or a program. Our focus as a non-profi
 Over the past seven years, we've trained thousands of engineers within some of the biggest companies in Silicon Valley including Facebook, Netflix, Airbnb, Youtube, Dropbox, and more. 
 
 We are sponsored by [many of the largest employers in the US](https://blog.codepath.org/microsoft-walmart-and-cognizant-invest-3-million-in-codepath/) including Walmart, Microsoft, Facebook, and Cognizant. We wanted to use our years of experience as entrepreneurs, engineers, and educators to create a bridge from the industry back to university students all across the United States.
+
+{% hint style="success" %}
+As a 501\(3\)\(c\) non-profit educational organization, we are incredibly proud to share that **all of our programs and services are 100% no-cost for students** \(outside of the normal costs in the case of for-credit courses we provide at your campus\). This is a critical value for us, we remember first-hand how difficult it is in college, and would never want to limit participation in these programs. 
+
+In addition, we provide ample opportunities for students to step up into paid contracting roles, and pathways into their first technical internships and software roles.
+{% endhint %}
 
 ### Video Overview
 
