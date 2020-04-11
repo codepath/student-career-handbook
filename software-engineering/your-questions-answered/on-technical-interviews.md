@@ -1,6 +1,6 @@
 # On Technical Interviews
 
-#### What topics do I need to know in order to pass common technical interviews at top tech companies for internships or as a new college graduate? <a id="What-topics-do-I-need-to-know-in-order-to-pass-common-technical-interviews-at-top-tech-companies-for-internships-or-as-a-new-college-graduate"></a>
+### What topics do I need to know in order to pass common technical interviews at top tech companies for internships or as a new college graduate?
 
 Technical internships or new college graduate roles often have the following:
 
@@ -10,7 +10,7 @@ Technical internships or new college graduate roles often have the following:
 
 Check out this [internship interview guide here](https://hackmd.io/s/HJN9k17sm) for a look at all the details on how to prepare and what to expect.
 
-#### What courses on campus should I be taking while I am in college that are most important after I graduate? <a id="What-courses-on-campus-should-I-be-taking-while-I-am-in-college-that-are-most-important-after-I-graduate"></a>
+### What courses on campus should I be taking while I am in college that are most important after I graduate?
 
 There are many foundational courses which are important as you go through your CS program. In particular, here are some classes and topics you’ll be glad you paid extra attention to:
 
@@ -25,7 +25,7 @@ There are many foundational courses which are important as you go through your C
 * **Operating Systems.** This includes memory management, schedulers, etc.
 * **Project Management.** Anything related to managing technical projects.
 
-#### What kind of qualifications, qualities, skills, or knowledge, do companies look for in interns/prospective employees? <a id="What-kind-of-qualifications-qualities-skills-or-knowledge-do-companies-look-for-in-internsprospective-employees"></a>
+### What kind of qualifications, qualities, skills, or knowledge, do companies look for in interns/prospective employees?
 
 Much of this is already covered in the other answers. It is important to know at least one language really well and to have applied this language in a context outside of class. Companies love finding interns and college hires who are excited about working there and that have side projects or previous software experience.
 

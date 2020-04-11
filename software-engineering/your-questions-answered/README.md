@@ -12,7 +12,7 @@ or begin by reviewing the top questions below!
 
 ## On Careers in Tech
 
-#### With regards to software engineering internships, what topics should we know in advance aside from data structures and algorithms that are supposed to be learned outside of class when it comes to the coding interviews? <a id="With-regards-to-software-engineering-internships-what-topics-should-we-know-in-advance-aside-from-data-structures-and-algorithms-that-are-supposed-to-be-learned-outside-of-class-when-it-comes-to-the-coding-interviews"></a>
+### With regards to software engineering internships, what topics should we know in advance aside from data structures and algorithms that are supposed to be learned outside of class when it comes to the coding interviews?
 
 Check out this [internship interview guide](https://hackmd.io/s/HJN9k17sm) for all the details as explained above. Specifically regarding things that are important and would need to be learned outside of most traditional CS classes in college:
 
@@ -24,7 +24,7 @@ Check out this [internship interview guide](https://hackmd.io/s/HJN9k17sm) for a
 
 You can check out our [skills and knowledge tree](https://codepath.hackmd.io/s/BkPikCsQN) for a more detailed look. Note that no one is going to become an expert at everything, this is not a checklist to complete. Instead, **focus on exploring the areas that are most interesting to you**, and enable you to develop projects.
 
-#### I would like to learn about building a good personal brand and network for a successful career as a Software Engineer. <a id="I-would-like-to-learn-about-building-a-good-personal-brand-and-network-for-a-successful-career-as-a-Software-Engineer"></a>
+### I would like to learn about building a good personal brand and network for a successful career as a Software Engineer.
 
 Although many students don’t start thinking about developing a personal brand and networking in the technology industry until later in their career, there are many ways to do that. Here are a few ways to get started:
 
@@ -36,7 +36,7 @@ Although many students don’t start thinking about developing a personal brand 
 
 You can find a more detailed write-up about [developing your professional network here](https://codepath.hackmd.io/s/S1lXTRJVV). Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
 
-#### What kind of projects would look good on my resume or help me get an internship? <a id="What-kind-of-projects-would-look-good-on-my-resume-or-help-me-get-an-internship"></a>
+### What kind of projects would look good on my resume or help me get an internship?
 
 As mentioned in the previous question, side projects outside of class work of all types can be a great way to differentiate and deepen your experience and signal to companies that you will be a good fit for an internship. Projects might include:
 
@@ -47,7 +47,7 @@ As mentioned in the previous question, side projects outside of class work of al
 
 You can pick any of these ways or many others to start building your out of class project portfolio. Make sure that you list and describe the most notable of your projects on your resume and your LinkedIn, and put the projects onto [Github](https://github.com/) with a clear README describing the project where feasible.
 
-#### Should I focus on side projects more or focus my efforts studying for technical interviews? <a id="Should-I-focus-on-side-projects-more-or-focus-my-efforts-studying-for-technical-interviews"></a>
+### Should I focus on side projects more or focus my efforts studying for technical interviews?
 
 Ideally of course, you’d want to do some of both over your time in school. When going onsite for your first technical internship, you’ll want to make sure you feel prepared for the [standard technical internship interview](https://hackmd.io/s/HJN9k17sm) outlined which will often involve some coding questions \(most often around Linked Lists, Trees and Graphs\).
 
@@ -55,7 +55,7 @@ However, the side projects you work on, and the experience those projects provid
 
 We realize that finding the time to do well in your classes, study for technical interviews, and also work on side projects, among the many other responsibilites you may have can feel like _a near impossible task_. The most important thing is to have patience, remember that you don’t have to try to do everything at once, and you don’t need to check every box. **This isn’t a race, it’s a long marathon, and being an engineer is about life-long learning.** Try to take career development one step at a time.
 
-#### How can we contribute to open source software and how do we approach or get started? <a id="How-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started"></a>
+### How can we contribute to open source software and how do we approach or get started?
 
 **Open-source projects are free open code projects that anyone can use or contribute to from anywhere in the world.** At the heart of most modern software development is the community of open-source projects. The practice of building and maintaining open source software works because people from all over the world, of all levels, abilities, and backgrounds, form communities to support the projects they care about.
 
@@ -75,7 +75,7 @@ Here’s a few great resources for getting started in open source as a beginner:
 
 ## On Software Engineering
 
-#### What are the types of skills and knowledge required to be a great software engineer? <a id="What-are-the-types-of-skills-and-knowledge-required-to-be-a-great-software-engineer"></a>
+### What are the types of skills and knowledge required to be a great software engineer?
 
 There are a number of different broad categories of skills and knowledge within the software engineering discipline:
 
@@ -89,7 +89,7 @@ There are a number of different broad categories of skills and knowledge within 
 
 You can check out our [skills and knowledge tree](https://codepath.hackmd.io/s/BkPikCsQN) for a detailed look at exactly the types of skills, knowledge and workflows you will develop over the course of your career as a software engineer.
 
-#### Do I need to enjoy and be good at math if I want to be a software engineer? <a id="Do-I-need-to-enjoy-and-be-good-at-math-if-I-want-to-be-a-software-engineer"></a>
+### Do I need to enjoy and be good at math if I want to be a software engineer?
 
 While there is definitely some math involved in most Computer Science degrees in school, you might be surprised how **infrequently many software engineers use math**. There’s certain things you will encounter a lot in programming of all types such as boolean logic \(if this, then that\), arithmetic \(addition, subtraction\), percentages and fractions, basic algebra concepts \(variables\), etc.
 
@@ -99,7 +99,7 @@ Certain other focuses such as game development, physics engines, data science, m
 
 For more details, check out this post by Sarah Mei called [Programming is NOT MATH](http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/).
 
-#### What are the different domains of software engineering that are relevant in industry? <a id="What-are-the-different-domains-of-software-engineering-that-are-relevant-in-industry"></a>
+### What are the different domains of software engineering that are relevant in industry?
 
 At a high-level, the following software engineering domains are most common within the tech industry:
 
@@ -117,7 +117,7 @@ At a high-level, the following software engineering domains are most common with
 
 For a more detailed breakdown of roles within the software industry, check out our [software engineering roles guide](https://hackmd.io/s/ByaoRR9Z7).
 
-#### What is it really like working as a software engineer day-to-day? <a id="What-is-it-really-like-working-as-a-software-engineer-day-to-day"></a>
+### What is it really like working as a software engineer day-to-day?
 
 Working as a software engineer is a broad space, and you can work in all sorts of different and interesting ways depending on the company and the team. However, here are a few things to keep in mind:
 
@@ -128,7 +128,7 @@ Working as a software engineer is a broad space, and you can work in all sorts o
 
 At the end of the day, there are so many different companies, teams and software engineering roles, that you can find a work environment that fits almost anything you are looking for. The trick is learning about yourself and your preferred work style and then finding a company/team that is a good fit for your preferences. Don’t worry too much if you don’t know yet what you want, experiment with different environments in order to learn.
 
-#### What languages or frameworks are most popular in the tech industry? <a id="What-languages-or-frameworks-are-most-popular-in-the-tech-industry"></a>
+### What languages or frameworks are most popular in the tech industry?
 
 The following provides a rough cheatsheet of the various technical areas as a software engineer, and related languages/frameworks:
 
@@ -147,7 +147,7 @@ The following provides a rough cheatsheet of the various technical areas as a so
 
 This is intended to give you a rough sense of the technical landscape, and by no means is comprehensive. There are hundreds of active programming languages and frameworks still being used today across the world.
 
-#### How do I know that I have “what it takes” to be a software engineer? <a id="How-do-I-know-that-I-have-&#x201C;what-it-takes&#x201D;-to-be-a-software-engineer"></a>
+### How do I know that I have “what it takes” to be a software engineer?
 
 Many students are unaware of a big challenge among software engineers that people rarely talk about openly. The challenge is called “[Impostor Syndrome](https://product.hubspot.com/blog/engineering-challenge-impostor-syndrome)”, which is defined as a “collection of feelings of inadequacy that persist even in face of information that indicates that the opposite is true. It is experienced internally as chronic self-doubt, and feelings of intellectual fraudulence”.
 
