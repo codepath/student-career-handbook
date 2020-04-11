@@ -42,7 +42,7 @@ Algorithms are simply a particular approach to solving a particular problem. Alg
 
 Used together, you can select one or more data structures to store your data, and then use particular algorithms to achieve a particular goal or solution within your software programs.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about data structures and algorithms, check out [this guide on studying them](https://hackmd.io/s/rkg8GyDiQ).
+![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about data structures and algorithms, check out [this guide on studying them](technical-interviewing/studying-for-tech-interviews.md).
 
 ### 3. Technical Interviewing <a id="3-Technical-Interviewing"></a>
 
@@ -50,7 +50,7 @@ In addition to understanding how to solve problems using data structures and alg
 
 Technical interviewing is a skill of its own which builds on top of your knowledge of data structures and algorithms. There are several aspects to technical interviewing including the steps of a coding interview, what questions to ask your interviewer, and how to test that your solution is correct.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about technical interviewing skills and strategies, check out our [technical interviewing guide](https://tinyurl.com/codepathinterviewguide).
+![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about technical interviewing skills and strategies, check out our [technical interviewing guide](technical-interviewing/technical-interviewing-guide.md).
 
 ### 4. Software Design Patterns <a id="4-Software-Design-Patterns"></a>
 
@@ -91,7 +91,7 @@ Stack-specific knowledge is specialized knowledge of how to build things using a
 * [Closures in Javascript](https://www.codingame.com/playgrounds/6516/closures-in-javascript-for-beginners) - How to implement closures in Javascript
 * [Automated testing](https://www.smartsheet.com/automation-testing-software) - How to do automated testing to verify your software is working correctly often using [tools like Selenium](https://www.valuebound.com/resources/blog/selenium-a-beginner-guide-to-automation-testing-tool).
 * [System administration](https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio) \(DevOps\) - Critical skills associated with setting up servers to properly run software.
-* [UNIX and Command-line](http://matt.might.net/articles/basic-unix/) - Using the UNIX command line comfortably and related tools \(grep/cat/awk/curl\)
+* [UNIX and Command-line](http://matt.might.net/articles/basic-unix/) - Using the UNIX command line comfortably and related tools \(`grep`/`cat`/`awk`/`curl`\)
 
 ![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To review the common tech stacks and career tracks in software engineering, check out our [software roles guide](https://hackmd.io/s/ByaoRR9Z7).
 
