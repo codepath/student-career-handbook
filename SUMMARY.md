@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [👋🏾 Introduction](README.md)
 * [What is CodePath.org?](what-is-codepath.org.md)
 * [Success Checklist](success-checklist.md)
 * [Skills and Knowledge Tree](skills-and-knowledge-tree.md)

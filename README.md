@@ -1,6 +1,6 @@
-# Introduction
+# 👋🏾 Introduction
 
-![:wave:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/wave.png) Welcome to our [CodePath.org](http://codepath.org/) Career Center Resources! The goal of these guides is to demystify the software engineering field and how to set yourself up for success to become a software engineer or in other related positions after you graduate.
+👋🏾 Welcome to our [CodePath.org](http://codepath.org/) Career Center Resources! The goal of these guides is to demystify the software engineering field and how to set yourself up for success to become a software engineer or in other related positions after you graduate.
 
 ### Who is this guide for? <a id="Who-is-this-guide-for"></a>
 
