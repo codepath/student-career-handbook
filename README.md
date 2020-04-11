@@ -29,6 +29,10 @@ There are four major areas we want to help students navigate:
 3. **Applying for Internships** - Sending out your resume and actually applying to companies
 4. **Technical Interviews** - Studying and becoming confident in technical internship interviews
 
+{% hint style="success" %}
+❗To sign up for these programs, check out our [student career page here](https://codepath.org/career) to get setup with a mentor, learn more about virtual career fairs, and see what other services we provide for our students!
+{% endhint %}
+
 ### 1. Career Exploration <a id="1-Career-Exploration"></a>
 
 Many students at university have a lot of questions surrounding the overall technical landscape of being a software engineer, including what classes to take, what to do outside of class, what it’s like being a software engineer or even how to get started contributing in open-source.
