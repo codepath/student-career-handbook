@@ -2,7 +2,9 @@
 
 This guide summarizes the knowledge and skills that you will need to develop along your career as a software engineer.
 
+{% hint style="success" %}
 **Project-based learning** - Often you’ll find that learning is best done in service to a particular goal, outcome or a particular project you are working on. There’s an enormous amount to learn, and it’s really easy to get overwhelmed. Prefer “just in time” learning over “just in case” learning. Try your best to focus on learning what is relevant to you at any given moment.
+{% endhint %}
 
 ![:warning:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/warning.png) Note that **no one is an expert at everything**, this is not a checklist but rather a survey of practical knowledge and relevant skills you will develop as your career progresses. Remember that it’s okay that you don’t know everything!
 
