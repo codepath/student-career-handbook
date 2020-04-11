@@ -2,9 +2,11 @@
 
 ## Why CodePath.org?
 
-CodePath.org isn’t about taking a class or a program. Our focus as an organization is to **help every potential and current CS student accelerate their pathway to becoming a successful software engineer**. And perhaps as importantly, to **work to transform and improve the tech industry** with all of your help each step along the way. 
+CodePath.org isn’t about taking a class or a program. Our focus as a non-profit organization is to **help every potential and current CS student accelerate their pathway to becoming a successful software engineer**. And perhaps as importantly, to **work to transform and improve the tech industry** with all of your help each step along the way. 
 
-Over the past seven years, we've trained thousands of engineers within some of the biggest companies in Silicon Valley including Facebook, Netflix, Airbnb, Youtube, Dropbox, and more. We wanted to use that experience to create a bridge from the industry back to university students all across the United States.
+Over the past seven years, we've trained thousands of engineers within some of the biggest companies in Silicon Valley including Facebook, Netflix, Airbnb, Youtube, Dropbox, and more. 
+
+We are sponsored by [many of the largest employers in the US](https://blog.codepath.org/microsoft-walmart-and-cognizant-invest-3-million-in-codepath/) including Walmart, Microsoft, Facebook, and Cognizant. We wanted to use our years of experience as entrepreneurs, engineers, and educators to create a bridge from the industry back to university students all across the United States.
 
 ### Video Overview
 
