@@ -23,7 +23,7 @@ Participating in our programs should span multiple courses, signing up to our ca
 
 The first major step to success after graduation is **landing a summer technical internship** \(or co-op\). _80% of CodePath students get a technical internship before their Senior year._ This is crucially important because an internship makes getting a great full-time job much easier after you graduate.
 
-### Our CodePath Values
+### Shared CodePath Values
 
 As part of being a student with CodePath, we hope to share with you the following values:
 
