@@ -1,4 +1,16 @@
+---
+description: >-
+  In this section, we explore what CodePath is, how we got started, what we
+  offer to students, and why we look forward to working with you.
+---
+
 # What is CodePath.org?
+
+{% hint style="success" %}
+As a 501\(3\)\(c\) non-profit educational organization, we are incredibly proud to share that **all of our programs and services are 100% no-cost for students** \(outside of the normal costs in the case of for-credit courses we provide at your campus\). This is a critical value for us, we remember first-hand how difficult it is in college, and would never want to limit participation in these programs. 
+
+In addition, we provide ample opportunities for students to step up into paid contracting roles, and pathways into their first technical internships and software roles.
+{% endhint %}
 
 ## Why CodePath.org?
 
