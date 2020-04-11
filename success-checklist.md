@@ -4,7 +4,9 @@ This guide provides a broad-ranging checklist to work towards a successful caree
 
 Whether you are a Freshman or a Senior, there is always plenty of things you can do right now to improve your chances of success in the technology industry.
 
+{% hint style="warning" %}
 ![:warning:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/warning.png) Note that no one is an expert at everything and no one will be able to complete 100% of the items below. It’s okay and normal that you won’t know everything, and that you won’t complete this entire checklist.
+{% endhint %}
 
 Take things one step at a time. Try to focus your learning and time around particular goals. There’s an enormous amount to learn and do, and it’s really easy to get overwhelmed. Think of this as a guide towards getting your first/next technical internship and then first full-time role after graduation.
 
