@@ -11,7 +11,7 @@ There are at least a few potential pathways to gaining professional experience a
 
 Paid internships. This is perhaps the most obvious one, and involves getting a paid summer internship every summer in a technical field. This one you can’t do every semester but it’s a great way to get paid and learn more about software at the same time.
 
-Check out our [guide to the internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) as well as our [technical interviewing guide](https://tinyurl.com/codepathinterviewguide) for more details on how to start your search for this summer.
+Check out our [guide to the internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) as well as our [technical interviewing guide](../technical-interviewing/technical-interviewing-guide.md) for more details on how to start your search for this summer.
 
 ### 2. Independent Freelancing <a id="2-Independent-Freelancing"></a>
 
