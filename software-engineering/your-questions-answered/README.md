@@ -49,7 +49,7 @@ You can pick any of these ways or many others to start building your out of clas
 
 ### Should I focus on side projects more or focus my efforts studying for technical interviews?
 
-Ideally of course, you’d want to do some of both over your time in school. When going onsite for your first technical internship, you’ll want to make sure you feel prepared for the [standard technical internship interview](https://hackmd.io/s/HJN9k17sm) outlined which will often involve some coding questions \(most often around Linked Lists, Trees and Graphs\).
+Ideally of course, you’d want to do some of both over your time in school. When going onsite for your first technical internship, you’ll want to make sure you feel prepared for the [standard technical internship interview](../../technical-interviewing/technical-interviewing-guide.md) outlined which will often involve some coding questions \(most often around Linked Lists, Trees and Graphs\).
 
 However, the side projects you work on, and the experience those projects provide you will both help you differentiate yourself to recruiters when you apply and also make you much better prepared to contribute once you’re in a software role.
 
