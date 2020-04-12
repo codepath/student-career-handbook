@@ -5,7 +5,7 @@ This post is meant to help computer science undergraduates looking for a softwar
 * _**What are most technical internship interviews like?**_
 * _**How should I prepare for them?**_
 
-![:wave:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/wave.png) **Note:** This post is adapted from the [post started here](http://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/). It has been modified and adapted from that post written by a student Louis Li.
+👋🏽 **Note:** This post is adapted from the [post started here](http://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/). It has been modified and adapted from that post written by a student Louis Li.
 
 ### The three types of internship interviews <a id="The-three-types-of-internship-interviews"></a>
 
