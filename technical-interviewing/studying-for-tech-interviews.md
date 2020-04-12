@@ -94,7 +94,7 @@ You can practice interviewing on a video chat with:
 
 ## Even More Resources <a id="Even-More-Resources"></a>
 
-![:information\_source:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) Below is an even longer list of resources you can check out:
+ℹ️ Below is an even longer list of resources you can check out:
 
 ### Courses <a id="Courses"></a>
 
