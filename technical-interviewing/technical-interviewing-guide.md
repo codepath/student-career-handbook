@@ -25,7 +25,9 @@ Some bigger companies dive straight into the technical part of interviews, but y
 
 Keep it succinct! This should be a minute or two at most. Hit the important points about your interests and experience. Additionally, be prepared for questions that **highlight your interest in the company**. For example, why you want to work here, what you like about the product, a feature or improvement you might like to work on during a hackathon.
 
-![:information\_source:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) Have a well-prepared intro that highlights one project or a team that you worked on previously. We highly recommend rehearsing your spiel ahead of time. It will give you a few moments to slow your breathing and heart rate down, and settle in to the interview environment. Plus, having a good answer to this question can set the right tone.
+{% hint style="info" %}
+Have a well-prepared intro that highlights one project or a team that you worked on previously. We highly recommend rehearsing your spiel ahead of time. It will give you a few moments to slow your breathing and heart rate down, and settle in to the interview environment. Plus, having a good answer to this question can set the right tone.
+{% endhint %}
 
 ### 1: The programming interview <a id="1-The-programming-interview"></a>
 
