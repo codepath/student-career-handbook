@@ -42,7 +42,7 @@ Algorithms are simply a particular approach to solving a particular problem. Alg
 
 Used together, you can select one or more data structures to store your data, and then use particular algorithms to achieve a particular goal or solution within your software programs.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png)To learn more about data structures and algorithms, check out [this guide on studying them](technical-interviewing/studying-for-tech-interviews.md).
+ℹ️ To learn more about data structures and algorithms, check out [this guide on studying them](technical-interviewing/studying-for-tech-interviews.md).
 
 ### 3. Technical Interviewing <a id="3-Technical-Interviewing"></a>
 
@@ -50,7 +50,7 @@ In addition to understanding how to solve problems using data structures and alg
 
 Technical interviewing is a skill of its own which builds on top of your knowledge of data structures and algorithms. There are several aspects to technical interviewing including the steps of a coding interview, what questions to ask your interviewer, and how to test that your solution is correct.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about technical interviewing skills and strategies, check out our [technical interviewing guide](technical-interviewing/technical-interviewing-guide.md).
+ℹ️ To learn more about technical interviewing skills and strategies, check out our [technical interviewing guide](technical-interviewing/technical-interviewing-guide.md).
 
 ### 4. Software Design Patterns <a id="4-Software-Design-Patterns"></a>
 
@@ -58,7 +58,7 @@ Software design patterns and principles are ways of organizing and designing cod
 
 These patterns are not specific libraries that you can plug into your application. These are, rather, guidelines on how to tackle certain problems in certain situations.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about software design patterns, check out our [software design patterns and principles guide](https://codepath.hackmd.io/s/H1CZJk2XN).
+ℹ️ To learn more about software design patterns, check out our [software design patterns and principles guide](https://codepath.hackmd.io/s/H1CZJk2XN).
 
 ### 5. System Architecture <a id="5-System-Architecture"></a>
 
@@ -70,7 +70,7 @@ System architecture is centered around how specific software systems and protoco
 * How to “cache” data to make your app faster
 * How to build parallel or concurrent systems
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about how to architect and design different types of software systems, check out our [software architecture guide](https://codepath.hackmd.io/s/H1kY1JhXE).
+ℹ️ To learn more about how to architect and design different types of software systems, check out our [software architecture guide](https://codepath.hackmd.io/s/H1kY1JhXE).
 
 ### 6. Development Workflows <a id="6-Development-Workflows"></a>
 
@@ -93,5 +93,5 @@ Stack-specific knowledge is specialized knowledge of how to build things using a
 * [System administration](https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio) \(DevOps\) - Critical skills associated with setting up servers to properly run software.
 * [UNIX and Command-line](http://matt.might.net/articles/basic-unix/) - Using the UNIX command line comfortably and related tools \(`grep`/`cat`/`awk`/`curl`\)
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To review the common tech stacks and career tracks in software engineering, check out our [software roles guide](https://hackmd.io/s/ByaoRR9Z7).
+ℹ️ To review the common tech stacks and career tracks in software engineering, check out our [software roles guide](https://hackmd.io/s/ByaoRR9Z7).
 
