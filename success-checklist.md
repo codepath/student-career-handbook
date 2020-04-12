@@ -36,7 +36,7 @@ Take things one step at a time. Try to focus your learning and time around parti
 * Personally mentor at least one student earlier in their career than you to strengthen your own understanding
 * Help lead a class as a TechFellow on at least one course they completed or provide technical support to other students
 * Work in a 2nd technical internship before graduation
-* Contribute to [your first open-source project](https://hackmd.io/s/BytxqCfjm#How-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started)
+* Contribute to [your first open-source project](software-engineering/your-questions-answered/#how-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started)
 * Launch a side project \(web app or mobile\) that some number of people other than yourself actually use
 * Attend local hackathons or coding events to collaborate on code and meet new students/engineers
 
