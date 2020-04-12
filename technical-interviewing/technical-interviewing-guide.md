@@ -55,7 +55,7 @@ When given a coding problem in an interview, whether on a whiteboard or on a hac
 * **Step 5: Test Your Solution** - Walk through your code line by line using several examples of inputs, and verifying for each case that the outputs are what you expect.
 * **Step 6: Discuss Complexity** - If there is time at the end, check to see if your interviewer wants you to discuss [space and/or time complexity](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) of your solution.
 
-Check out [this more extended step-by-step overview](https://hackmd.io/s/SJye97LTQ) or this [video by an ex-Googler for a walkthrough](https://youtu.be/uQdy914JRKQ) for more details. You can also read [this guide by an ex-Facebooker](https://hackmd.io/@nesquena/ex-fb-interviewer-tips).
+Check out [this more extended step-by-step overview](anatomy-of-an-interview.md) or this [video by an ex-Googler for a walkthrough](https://youtu.be/uQdy914JRKQ) for more details. You can also read [this guide by an ex-Facebooker](https://hackmd.io/@nesquena/ex-fb-interviewer-tips).
 
 #### Topic Overview <a id="Topic-Overview"></a>
 
