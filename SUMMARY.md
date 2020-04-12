@@ -32,6 +32,7 @@
 * [Software Career Tracks](software-engineering/software-career-tracks.md)
 * [Software Design Patterns](software-engineering/software-design-patterns.md)
 * [Exploring System Architectures](software-engineering/exploring-system-architecture.md)
+* [Success as a Software Engineer](software-engineering/success-as-a-software-engineer.md)
 
 ## Domain-Specific
 
