@@ -10,7 +10,7 @@ The guide assumes some knowledge of certain technical terms used throughout but 
 
 ### Navigating this Guide <a id="Navigating-this-Guide"></a>
 
-![:point\_left:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/point_left.png) Jump to any section by clicking on the sidebar or ![:point\_down:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/point_down.png) start by reviewing the content below!
+👈🏽 Jump to any section by clicking on the sidebar or 👇🏽 start by reviewing the content below!
 
 * **Interested to understand more about a career in software engineering?** Check out our [your questions answered](software-engineering/your-questions-answered/) guide for answers to common questions.
 * **Interested in the specific steps you should complete while in college?** [Check out our success checklist](success-checklist.md) for a high-level overview.
@@ -77,7 +77,7 @@ However, we know that it can be awkward finding and asking a mentor to help, so 
 When coding in an interview context or especially when presenting code on your Github profile, it’s important to spend some attention on making sure your code is clean and avoids sending “red flags” by having a lot of misspellings, badly named variables or inconsistent whitespace/indentation. Check out our [code quality guide](domain-specific/improving-code-quality.md) for more details.
 
 {% hint style="success" %}
-![:wave:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/wave.png) This guide was originally authored and adapted by Nathan Esquenazi as part of the services offered to students through [CodePath.org](http://codepath.org/), a 501\(3\)c non-profit dedicated to forging an accelerated pathway into the tech industry for all university students.
+This guide was originally authored and adapted by Nathan Esquenazi as part of the services offered to students through [CodePath.org](http://codepath.org/), a 501\(3\)c non-profit dedicated to forging an accelerated pathway into the tech industry for all university students.
 
 Special thanks to the many students, recruiters, and professional engineers that provided feedback and made this guide possible!
 {% endhint %}
