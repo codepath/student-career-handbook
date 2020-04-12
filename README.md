@@ -52,7 +52,7 @@ Your next step is applying for internships, this is about finding a set of compa
 
 If you are a Sophomore or Junior, check out our [3-steps to an internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) guide for a detailed walkthrough of how to start your summer internship search.
 
-If you are a Freshman or Sophomore, apply for a few [early pre-internship summer programs](bonus/early-internship-programs.md) which do not require much technical coding knowledge.
+If you are a Freshman or Sophomore, apply for a few [early pre-internship summer programs](internship-search/early-internship-programs.md) which do not require much technical coding knowledge.
 
 ### 4. Passing a Technical Internship Interview <a id="4-Passing-a-Technical-Internship-Interview"></a>
 

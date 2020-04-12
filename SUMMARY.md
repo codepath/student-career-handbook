@@ -15,6 +15,7 @@
 * [The Art of the Follow-up](internship-search/the-art-of-the-follow-up.md)
 * [Writing a Great Cover Letter](internship-search/writing-a-great-cover-letter.md)
 * [Negotiating on Internship Salary](internship-search/negotiating-on-internship-salary.md)
+* [Early Internship Programs](internship-search/early-internship-programs.md)
 
 ## Technical Interviewing
 
@@ -40,5 +41,4 @@
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
-* [Early Internship Programs](bonus/early-internship-programs.md)
 
