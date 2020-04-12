@@ -82,3 +82,21 @@ Software engineers can acquire these skills by paying attention to new opportuni
 
 This is adapted from [this article](https://dev.to/rahulvarshneya/12-must-have-soft-skills-for-software-engineers-4d89) by Rahul Varshneya.
 
+## Additional Skills and Recap
+
+Look beyond the specific coding acumen, and start early thinking about the following essential skills as you develop in your engineering career:
+
+1. **Being able to communicate clearly** 
+   * In business terms - not in tech jargon - with business people / non-technical co-workers.
+2. A **high-level understanding of how systems work**:
+   * Design patterns
+   * how to abstract systems into manageable layers
+   * how the business or product ought to influence the structure of your app/code
+   * knowing which technologies solve what high-level problems
+3. **Ability to elegantly connect different pieces of a system**.
+   * It’s easy to build a piece of a closed system. It’s hard to build something that connects with other systems, teams in your organization, etc. You’ll need to make sure you understand requirements much better and provide really good documentation. Yes - it means you will need to communicate with people and exercise your writing skills. Sometimes writing for non-technical people
+4. **Collaborating with a team**
+   * You’ll soon find yourself getting frustrated with your co-workers. Maybe they don’t code the same way as you? Maybe they don’t have the same understanding as you do. Maybe every morning they take the first 30 minutes of their day to tell you about what movie they watched last night? E-v-e-r-y-d-a-y. You’ll have to learn that everyone is different. Pick your battles. Not every difference is important. The things that are important - make sure you address those concerns by speaking with that person directly.
+5. **Knowledge of the business problem is essential**
+   * How can you build a solution to a problem you don’t fully understand? If your product is designed to fix a problem that medical doctors have then you’ll need to know about how doctors work and deal with the problem at hand. Get to know your problem so well that fixing the problem by writing code is the last resort. This means having to problem-solve with business people and doctors, for example. It might mean having to learn more skills: marketing, product design, business planning, etc.
+
