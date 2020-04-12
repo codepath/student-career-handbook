@@ -70,7 +70,7 @@ System architecture is centered around how specific software systems and protoco
 * How to “cache” data to make your app faster
 * How to build parallel or concurrent systems
 
-ℹ️ To learn more about how to architect and design different types of software systems, check out our [software architecture guide](https://codepath.hackmd.io/s/H1kY1JhXE).
+ℹ️ To learn more about how to architect and design different types of software systems, check out our [software architecture guide](software-engineering/software-design-patterns.md).
 
 ### 6. Development Workflows <a id="6-Development-Workflows"></a>
 
