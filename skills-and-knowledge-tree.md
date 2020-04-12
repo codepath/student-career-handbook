@@ -93,5 +93,5 @@ Stack-specific knowledge is specialized knowledge of how to build things using a
 * [System administration](https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio) \(DevOps\) - Critical skills associated with setting up servers to properly run software.
 * [UNIX and Command-line](http://matt.might.net/articles/basic-unix/) - Using the UNIX command line comfortably and related tools \(`grep`/`cat`/`awk`/`curl`\)
 
-ℹ️ To review the common tech stacks and career tracks in software engineering, check out our [software roles guide](https://hackmd.io/s/ByaoRR9Z7).
+ℹ️ To review the common tech stacks and career tracks in software engineering, check out our [software roles guide](software-engineering/software-career-tracks.md).
 

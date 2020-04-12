@@ -115,7 +115,7 @@ At a high-level, the following software engineering domains are most common with
 * Desktop Software Development \(Windows/Mac/Linux\)
 * Software Testing Engineers \(Selenium/Expresso\)
 
-For a more detailed breakdown of roles within the software industry, check out our [software engineering roles guide](https://hackmd.io/s/ByaoRR9Z7).
+For a more detailed breakdown of roles within the software industry, check out our [software engineering roles guide](../software-career-tracks.md).
 
 ### What is it really like working as a software engineer day-to-day?
 
