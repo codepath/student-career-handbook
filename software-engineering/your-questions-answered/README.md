@@ -87,7 +87,7 @@ There are a number of different broad categories of skills and knowledge within 
 6. **Development Workflows** - How to do specific processes common to writing software such as debugging when things go wrong, searching for possible solutions online, working with Git or other version control and more.
 7. **Stack-Specific Knowledge** - Knowledge of how to build things using particular technology and languages. For example, building iOS or Android apps, building web servers with Ruby on Rails, or writing Javascript.
 
-You can check out our [skills and knowledge tree](https://codepath.hackmd.io/s/BkPikCsQN) for a detailed look at exactly the types of skills, knowledge and workflows you will develop over the course of your career as a software engineer.
+You can check out our [skills and knowledge tree](../../skills-and-knowledge-tree.md) for a detailed look at exactly the types of skills, knowledge and workflows you will develop over the course of your career as a software engineer.
 
 ### Do I need to enjoy and be good at math if I want to be a software engineer?
 
