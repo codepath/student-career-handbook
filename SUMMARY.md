@@ -30,6 +30,7 @@
   * [On Technical Interviews](software-engineering/your-questions-answered/on-technical-interviews.md)
   * [On Miscellaneous](software-engineering/your-questions-answered/on-miscellaneous.md)
 * [Software Career Tracks](software-engineering/software-career-tracks.md)
+* [Software Design Patterns](software-engineering/software-design-patterns.md)
 
 ## Domain-Specific
 
