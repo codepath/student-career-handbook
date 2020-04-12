@@ -40,4 +40,5 @@
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
+* [Early Internship Programs](bonus/early-internship-programs.md)
 
