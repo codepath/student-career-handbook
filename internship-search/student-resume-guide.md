@@ -12,7 +12,7 @@ Almost all that time is spent on your name, companies, job titles, start/end dat
 
 #### Use our resume template or online resume builders if you’re short on time. <a id="Use-our-resume-template-or-online-resume-builders-if-you&#x2019;re-short-onnbsptime"></a>
 
-![:information\_source:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) If you don’t already have a resume, you can copy [our standard student resume template here](https://docs.google.com/document/d/1MD1yNjhlsrBx98KK199BuF13cS7NaTW4eSvm3sH3zT0/edit) and check out [these additional getting started instructions](https://docs.google.com/document/d/1uQWTiyMrX55AWm1NcgnP1r2p-5MgqIOfkxDsDjG4ojQ/edit?usp=sharing).
+ℹ️ If you don’t already have a resume, you can copy [our standard student resume template here](https://docs.google.com/document/d/1MD1yNjhlsrBx98KK199BuF13cS7NaTW4eSvm3sH3zT0/edit) and check out [these additional getting started instructions](https://docs.google.com/document/d/1uQWTiyMrX55AWm1NcgnP1r2p-5MgqIOfkxDsDjG4ojQ/edit?usp=sharing).
 
 You can [check out examples of real student resumes](https://drive.google.com/drive/folders/1pBf49-RzMFOPoBsc-t-S6PvHNRuT6CG5) that we’ve collected for you to review for inspiration as well.
 
