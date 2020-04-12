@@ -13,7 +13,7 @@ description: 'In this section, we look at the top places to study Computer Scien
 ### Web Development
 
 * [Free Code Camp](https://www.freecodecamp.com/) for web development
-* [Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/) has a good web dev course and is highly recommended to do in parallel with freecodecamp
+* [Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/) has a good web dev course and is highly recommended to do in parallel with FreeCodeCamp
 * [The Rails Tutorial](https://www.railstutorial.org/) by Michael Hartl is the Bible for learning Ruby on Rails
 
 ### Specialized and Advanced Topics
