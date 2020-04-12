@@ -1,0 +1,14 @@
+# Exploring System Architecture
+
+System architecture is centered around how specific software systems and protocols work, the components they contain and how that all fits together. Of course, there are many systems and elements with different architectures.
+
+The following provides a few examples of systems and architectures you are likely to encounter over time:
+
+* [How Computer Networking and the Web Works](https://hackingpress.com/computer-networking-basics/) - Understanding HTTP, DNS, TCP/IP, IP4, etc. Here’s a [related free online course](https://www.udacity.com/course/networking-for-web-developers--ud256) which goes through the elements of networking via video.
+* [Architecture and Design of REST APIs](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf) - REST APIs are the servers that provide data \(usually in JSON or XML\) to web or mobile apps.
+* [Architecting and Designing Relational Database Schemas](https://wsvincent.com/database-design-tutorial-for-beginners/) - How to design the database schemas and models that hold all of your data for a system and designing the relationships between them. Check out [this course which dives in deep to database design and modeling](https://www.udemy.com/the-complete-database-modeling-and-design-beginners-tutorial/).
+* [Architecture and Layers of Caching within Applications](https://hackernoon.com/client-network-server-and-application-caching-on-the-web-2fcdcd856886) - How to “cache” \(or store\) data in multiple different places in order to make your systems faster and more reliable. Also check out these articles: [one](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/), [two](https://www.cloudways.com/blog/beginners-guide-to-web-cache-basics/), [three](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies) for additional resources.
+* [Archiecture of Push vs Pull System Communication](https://medium.com/@_JeffPoole/thoughts-on-push-vs-pull-architectures-666f1eab20c2) - How to architect the communication between two separate parts of a larger system that need to notify each other as things happen.
+* [Architecture of Concurrent or Parallel Programming](https://sookocheff.com/post/concurrency/concurrency-a-primer/) - How to design components of systems where multiple lines of code execute simultaneously. Check out [this](https://www.toptal.com/software/introduction-to-concurrent-programming) or [this article](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) for additional background.
+* [Architecture of Data Sharding or Partitioning](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) - How to store large datasets for your applications in a particular way that makes your systems more scalable.
+

@@ -58,7 +58,7 @@ Software design patterns and principles are ways of organizing and designing cod
 
 These patterns are not specific libraries that you can plug into your application. These are, rather, guidelines on how to tackle certain problems in certain situations.
 
-ℹ️ To learn more about software design patterns, check out our [software design patterns and principles guide](https://codepath.hackmd.io/s/H1CZJk2XN).
+ℹ️ To learn more about software design patterns, check out our [software design patterns and principles guide](software-engineering/software-design-patterns.md).
 
 ### 5. System Architecture <a id="5-System-Architecture"></a>
 
