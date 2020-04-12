@@ -8,7 +8,7 @@ Technical internships or new college graduate roles often have the following:
 * Past experience interviews \(“what have you done”\)
 * Domain-specific interviews \(“what do you know”\)
 
-Check out this [internship interview guide here](https://hackmd.io/s/HJN9k17sm) for a look at all the details on how to prepare and what to expect.
+Check out this [internship interview guide here](../../technical-interviewing/technical-interviewing-guide.md) for a look at all the details on how to prepare and what to expect.
 
 ### What courses on campus should I be taking while I am in college that are most important after I graduate?
 

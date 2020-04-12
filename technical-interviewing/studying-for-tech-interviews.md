@@ -19,7 +19,7 @@ For example, you might be asked to “reverse a linked list” or “sort an arr
 Generally, studying for technical interviews involves the following steps:
 
 1. Buy a book like [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) and others recommended below.
-2. Learn about the [specific steps you should be taking in a coding interview](https://hackmd.io/s/SJye97LTQ)
+2. Learn about the [specific steps you should be taking in a coding interview](anatomy-of-an-interview.md)
 3. Learn about the major data structures and the most common algorithms via videos, written guides, books
 4. Practice easy problems online coding solutions to various problems that involve different data structures and algorithms you’ve read about
 5. Learn about Big-O notation and how to evaluate how efficient your solution is
@@ -32,7 +32,7 @@ Becoming confident and proficient in the full range of common interview question
 
 #### How does a coding interview usually work? <a id="How-does-a-coding-interview-usually-work"></a>
 
-Check out our guide here for a [detailed breakdown of how interviews work](https://tinyurl.com/codepathinterviewguide). There are [specific steps to how to tackle a problem](https://hackmd.io/s/SJye97LTQ) during a coding interview which should review carefully and practice.
+Check out our guide here for a [detailed breakdown of how interviews work](technical-interviewing-guide.md). There are [specific steps to how to tackle a problem](anatomy-of-an-interview.md) during a coding interview which should review carefully and practice.
 
 ### Core Topics for Review <a id="Core-Topics-for-Review"></a>
 

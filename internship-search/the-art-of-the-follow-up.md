@@ -33,7 +33,7 @@ Anything that you can do to **build connections to engineers working in industry
 
 * Start a blog \(or [post on medium](https://medium.com/)\) where you share concepts and journal concepts you are learning. Cover anything you find interesting as you learn. Later when you look back, you’ll be glad you did.
 * Create a twitter account, configure your profile and start following engineers. Start retweeting and interacting with other engineers online.
-* [Contribute in small ways to open-source online](https://hackmd.io/s/BytxqCfjm#How-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started) to build up your real-world skills and learn from engineers in the industry.
+* [Contribute in small ways to open-source online](../software-engineering/your-questions-answered/#how-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started) to build up your real-world skills and learn from engineers in the industry.
 
 Remember that connections you develop with engineers will often **directly lead to internships and opportunities over time**. One secret you may not know is that an easy way to get noticed by a recruiter is to **have an engineer at their company refer you directly or message them.**
 

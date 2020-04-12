@@ -14,7 +14,7 @@ or begin by reviewing the top questions below!
 
 ### With regards to software engineering internships, what topics should we know in advance aside from data structures and algorithms that are supposed to be learned outside of class when it comes to the coding interviews?
 
-Check out this [internship interview guide](https://hackmd.io/s/HJN9k17sm) for all the details as explained above. Specifically regarding things that are important and would need to be learned outside of most traditional CS classes in college:
+Check out this [internship interview guide](../../technical-interviewing/technical-interviewing-guide.md) for all the details as explained above. Specifically regarding things that are important and would need to be learned outside of most traditional CS classes in college:
 
 * **Real-world Javascript programming.** Specifically using frameworks like [React](https://medium.freecodecamp.org/everything-you-need-to-know-to-get-started-in-react-11311ae997cb) and [jQuery](https://jquery.com/). Javascript is used universally for building website front-ends and can now be used to build web application back-ends as well using Node.js.
 * **Native iOS and/or Android.** Specifically building and shipping native mobile apps for either iPhone or Android. Best if you are building your own app ideas and push them to the Play Store or App Store. Bonus points if you get your friends using them.
@@ -22,7 +22,7 @@ Check out this [internship interview guide](https://hackmd.io/s/HJN9k17sm) for a
 * **UNIX / Command-line**. You’ll want to explore how to use the [command-line in various ways](http://matt.might.net/articles/basic-unix/) especially on the UNIX platform. You’ll be really glad you are comfortable with UNIX.
 * **Version Control / Git**. You’ll want to explore using version control systems such as [Git](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) to store and track your code. Bonus points for using Git to build a project with a few friends.
 
-You can check out our [skills and knowledge tree](https://codepath.hackmd.io/s/BkPikCsQN) for a more detailed look. Note that no one is going to become an expert at everything, this is not a checklist to complete. Instead, **focus on exploring the areas that are most interesting to you**, and enable you to develop projects.
+You can check out our [skills and knowledge tree](../../skills-and-knowledge-tree.md) for a more detailed look. Note that no one is going to become an expert at everything, this is not a checklist to complete. Instead, **focus on exploring the areas that are most interesting to you**, and enable you to develop projects.
 
 ### I would like to learn about building a good personal brand and network for a successful career as a Software Engineer.
 

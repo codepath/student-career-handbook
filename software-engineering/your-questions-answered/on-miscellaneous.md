@@ -2,7 +2,7 @@
 
 ### How can I build up my programming fundamentals in Java?
 
-Chances are that you will be introduced to Java, Python, Lisp, and/or C++ in school at various points over your 4-years in college. Often, you might take a 101 intro class that starts you off with one of these languages. If you feel that your understanding of Java or other languages is lacking, this is nothing to be worried about, it’s very common for you to need to reinforce the concepts learned in class through additional online resources before having a deeper understanding. If you are interested in diving deeper with Java, check out our [Diving Deeper with Java](https://hackmd.io/s/SyyXX9Lom) resources for a good place to start.
+Chances are that you will be introduced to Java, Python, Lisp, and/or C++ in school at various points over your 4-years in college. Often, you might take a 101 intro class that starts you off with one of these languages. If you feel that your understanding of Java or other languages is lacking, this is nothing to be worried about, it’s very common for you to need to reinforce the concepts learned in class through additional online resources before having a deeper understanding. If you are interested in diving deeper with Java, check out our [Diving Deeper with Java](../../domain-specific/a-deeper-understanding-of-java.md) resources for a good place to start.
 
 ### Before graduating college, how important is your GPA as opposed to side projects in acquiring your first internship?
 

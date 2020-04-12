@@ -14,7 +14,7 @@ Take things one step at a time. Try to focus your learning and time around parti
 
 * Create an [effective resume and LinkedIn](internship-search/student-resume-guide.md) to prepare for your internship search
 * Acquire [technical internship interview readiness](technical-interviewing/technical-interviewing-guide.md) for phone screens and on-site interviews
-* Acquire confidence developing in one [industry tech stack](https://hackmd.io/s/ByaoRR9Z7) beyond what’s taught in classes
+* Acquire confidence developing in one [industry tech stack](software-engineering/software-career-tracks.md) beyond what’s taught in classes
 * Work in at least one software internship position by summer of Junior year
 * Strengthen [your professional network](internship-search/the-art-of-the-follow-up.md) with more engineers and motivated peers
 

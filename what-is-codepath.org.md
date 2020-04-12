@@ -48,7 +48,7 @@ As part of being a student with CodePath, we hope to share with you the followin
 
 ### You Should Know...
 
-* Within software engineering, there are [many exciting specializations and disciplines](https://hackmd.io/s/ByaoRR9Z7). However, the majority of the jobs by far are in application development, whether that be web, mobile, or desktop products.
+* Within software engineering, there are [many exciting specializations and disciplines](software-engineering/software-career-tracks.md). However, the majority of the jobs by far are in application development, whether that be web, mobile, or desktop products.
 * This is a great time to get into the tech industry. Salaries for software engineers can often be six figures right out of college in major tech hubs \(San Francisco, Seattle, Portland, Boston, New York, etc\). A few years into a career as a mobile engineer, you'll often be making 125-150k a year or more.
 * Beyond salary, often the challenges you get to work on are interesting, there are a lot of different products to work on ranging across the spectrum of interests in Healthcare, Entertainment, Finance, et al. Work is very collaborative and creative, working with other engineers as well as product managers and designers.
 * There's a lot of flexibility as a software engineer, you can find roles that are working from home, or where you start at 11am, or where you work mostly by yourself, or where you are frequently collaborating with others. There's a tremendous range of options of how, when and where you work as an engineer.
