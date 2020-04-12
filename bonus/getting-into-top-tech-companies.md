@@ -1,4 +1,4 @@
-# Getting into Top Tech Companies
+# Get into Top Tech Companies
 
 {% embed url="https://youtu.be/2Sp51QwkHWE" caption="Listen to Andy on getting into large tech companies" %}
 
