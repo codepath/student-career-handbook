@@ -23,7 +23,7 @@ Although many students don’t start thinking about developing a personal brand 
 * Attend career fairs or career workshops on campus. Through CodePath, sign up to participate in virtual career fairs which will connect you directly to companies.
 * If you can, consider attending nearby hackathons. Hackathons are a great way to meet and talk to people from various companies. You can even try to meet one of the event organizers.
 * If you can, find a way to attend software conferences or events nearby. You can often find events on [meetup.com](http://meetup.com/) or even on your campus.
-* Take more [CodePath classes](https://codepath.org/classes), as many as you can ![:smile:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/smile.png) and meet mentors and students through these programs and build connections. Even become a student leader, and teach other students to push forward your mastery.
+* Take more [CodePath classes](https://codepath.org/classes), as many as you can 😄 and meet mentors and students through these programs and build connections. Even become a student leader, and teach other students to push forward your mastery.
 
 Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
 
@@ -37,7 +37,7 @@ Anything that you can do to **build connections to engineers working in industry
 
 Remember that connections you develop with engineers will often **directly lead to internships and opportunities over time**. One secret you may not know is that an easy way to get noticed by a recruiter is to **have an engineer at their company refer you directly or message them.**
 
-If you can **get an engineer you met to help connect you to a recruiter at their company**, the likelihood of getting an interview goes up exponentionally.
+If you can **get an engineer you met to help connect you to a recruiter at their company**, the likelihood of getting an interview goes up exponentially.
 
 ### “Manage Up” by following up! <a id="&#x201C;Manage-Up&#x201D;-by-following-up"></a>
 
