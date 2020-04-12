@@ -22,7 +22,7 @@ Take things one step at a time. Try to focus your learning and time around parti
 
 * Develop an understanding of [what being a software engineer involves](software-engineering/your-questions-answered/)
 * Sign up for our “[Mobile App Design](http://codepath.org/classes/mobileappdesign)” workshop series to learn about mobile app design, how to code mobile apps, and learn from industry experts.
-* Apply for 3+ [early pre-internship summer programs](https://codepath.hackmd.io/s/B19EkfzV4) \(_Freshman/Sophomore_\)
+* Apply for 3+ [early pre-internship summer programs](bonus/early-internship-programs.md) \(_Freshman/Sophomore_\)
 * Complete a first course \(SE101 or SE102\) of our [software fundamentals course series](https://codepath.org/classes/interviewprep)
 * Complete one or more of our special topics courses \(iOS, Android, Cybersecurity, etc\)
 * Complete a second course \(SE102 or SE103\) of our [software fundamentals course](https://codepath.org/classes/interviewprep) series
