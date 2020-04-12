@@ -105,7 +105,7 @@ As part of most internships and software roles, you’ll often be asked three ty
 * Past experience interviews \(“what have you done”\)
 * Domain-specific interviews \(“what do you know”\)
 
-Check out this [internship interview guide here](https://hackmd.io/s/HJN9k17sm) for a look at all the details on how to prepare and what to expect. To learn more about the coding interviews specifically, check out our [guide on studying for coding interviews](https://hackmd.io/s/rkg8GyDiQ).
+Check out this [internship interview guide here](../technical-interviewing/technical-interviewing-guide.md) for a look at all the details on how to prepare and what to expect. To learn more about the coding interviews specifically, check out our [guide on studying for coding interviews](../technical-interviewing/studying-for-tech-interviews.md).
 
 #### 4. Side projects transform your resume from good to great <a id="4-Side-projects-transform-your-resume-from-good-to-great"></a>
 
@@ -116,7 +116,7 @@ Side projects outside of school class work of all types can be an excellent way 
 * Developing a functional iOS or Android app around an idea and executing it all the way to publishing on the App Store or Play Store. Bonus points if you get some people using it.
 * Participating in a hackathon and building a prototype of any web or mobile project with a group
 * If your university supports this, getting involved with research projects can be great too. In particular, anything involving: AI / Machine Learning, Ubiquitous Computing, Data Science / Visualization, Graphics, etc. Whatever you are drawn to learn more about.
-* [Contributing in small ways to open-source online](https://hackmd.io/s/BytxqCfjm#How-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started) to build up your real-world skills and learn from top engineers in the industry.
+* [Contributing in small ways to open-source online](../software-engineering/your-questions-answered/#how-can-we-contribute-to-open-source-software-and-how-do-we-approach-or-get-started) to build up your real-world skills and learn from top engineers in the industry.
 
 For inspiration, check [here](https://github.com/karan/Projects) and [here](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) for lists of side project ideas to get you started. We recommend doing a side project that you’re passionate about, rather than one you’re just using to build your resume. It will be a lot more enjoyable and you’ll learn a lot more.
 
