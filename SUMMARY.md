@@ -31,7 +31,7 @@
   * [On Miscellaneous](software-engineering/your-questions-answered/on-miscellaneous.md)
 * [Software Career Tracks](software-engineering/software-career-tracks.md)
 * [Software Design Patterns](software-engineering/software-design-patterns.md)
-* [Exploring System Architecture](software-engineering/exploring-system-architecture.md)
+* [Exploring System Architectures](software-engineering/exploring-system-architecture.md)
 
 ## Domain-Specific
 

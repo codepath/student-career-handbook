@@ -1,4 +1,4 @@
-# Exploring System Architecture
+# Exploring System Architectures
 
 System architecture is centered around how specific software systems and protocols work, the components they contain and how that all fits together. Of course, there are many systems and elements with different architectures.
 
