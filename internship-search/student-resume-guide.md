@@ -8,7 +8,7 @@ Writing a resume might seem pretty straightforward, but there are lots of nuance
 
 Almost all that time is spent on your name, companies, job titles, start/end dates, school, major, and project titles. Everything on your resume should be tailored towards helping recruiters find these key pieces of info as fast as possible.
 
-![:point\_right:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/point_right.png) Interested in how to search for a great technical internship? **Start by reviewing this blog post we put together on all things about the** [**technical internship search**](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
+👉🏽 Interested in how to search for a great technical internship? **Start by reviewing this blog post we put together on all things about the** [**technical internship search**](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
 
 #### Use our resume template or online resume builders if you’re short on time. <a id="Use-our-resume-template-or-online-resume-builders-if-you&#x2019;re-short-onnbsptime"></a>
 

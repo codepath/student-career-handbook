@@ -2,7 +2,7 @@
 
 If you never programmed at all before or if you are interested in starting with the basics, spend the first few months focused on learning Java. Learn the syntax and understand how everything works. You’ll need to be able to create classes, create and call methods, use interfaces as well as know how inheritance works, before you can go to the next step. These are the basics of Java, and you’ll use them extensively when developing Android apps.
 
-![:exclamation:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/exclamation.png)![:point\_right:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/point_right.png) [Start with these Java Interactive Guides](https://www.ktbyte.com/java-tutorial/book#chapters) or these [online Java Programming Tutorials](http://tutorials.jenkov.com/java)
+❗👉🏽 [Start with these Java Interactive Guides](https://www.ktbyte.com/java-tutorial/book#chapters) or these [online Java Programming Tutorials](http://tutorials.jenkov.com/java)
 
 ### Where to Start <a id="Where-to-Start"></a>
 

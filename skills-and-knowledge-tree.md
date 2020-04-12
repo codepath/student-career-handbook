@@ -42,7 +42,7 @@ Algorithms are simply a particular approach to solving a particular problem. Alg
 
 Used together, you can select one or more data structures to store your data, and then use particular algorithms to achieve a particular goal or solution within your software programs.
 
-![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png) To learn more about data structures and algorithms, check out [this guide on studying them](technical-interviewing/studying-for-tech-interviews.md).
+![:information\_source:](https://codepath.hackmd.io/build/emojify.js/dist/images/basic/information_source.png)To learn more about data structures and algorithms, check out [this guide on studying them](technical-interviewing/studying-for-tech-interviews.md).
 
 ### 3. Technical Interviewing <a id="3-Technical-Interviewing"></a>
 
