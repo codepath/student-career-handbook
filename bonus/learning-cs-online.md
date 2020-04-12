@@ -2,7 +2,7 @@
 description: 'In this section, we look at the top places to study Computer Science online'
 ---
 
-# Learning CS Online
+# Learning Computer Science
 
 ### Getting Started
 
