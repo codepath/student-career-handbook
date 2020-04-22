@@ -38,6 +38,9 @@ General job listings for all types of roles:
 Other:
 
 * [Interviewing.io](https://interviewing.io/) - Get actionable interview feedback, and get fast-tracked at companies.
+* [Mintbean](https://www.mintbean.io/) - Enables students to demonstrate their coding skills and connect with tech companies through hackathons.
+* [Skillzilla](https://www.skillzilla.io/) - Helps developers create an in-depth candidate profile and connect with dozens of hiring partners.
+* [Triplebyte](https://triplebyte.com/a/XqmLNX4/d) - Provides a uniform coding assessment to match developers to job opportunities. 
 * [Woo](https://woo.io/) - Discreetly explore software engineering opportunities, we’ll introduce you to the companies you liked.
 
 ### Startups <a id="Startups"></a>
