@@ -33,6 +33,7 @@
 * [Software Design Patterns](software-engineering/software-design-patterns.md)
 * [Exploring System Architectures](software-engineering/exploring-system-architecture.md)
 * [Success as a Software Engineer](software-engineering/success-as-a-software-engineer.md)
+* [On Becoming a Senior Engineer](software-engineering/on-becoming-a-senior-engineer.md)
 
 ## Domain-Specific
 

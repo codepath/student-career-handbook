@@ -12,7 +12,7 @@ When searching for jobs, check the following “search terms”:
 * “web developer”
 * “software engineer”
 
-### Internships/Co-ops <a id="InternshipsCo-ops"></a>
+## Internships/Co-ops <a id="InternshipsCo-ops"></a>
 
 The following sites have listings for internships and co-ops:
 
@@ -25,7 +25,7 @@ The following sites have listings for internships and co-ops:
 
 You can start by listing all the companies whose products you used or enjoyed, and then searching “software engineering intern” on the sites and sifting through those listings for companies or posts that sounds interesting.
 
-### General Jobs <a id="General-Jobs"></a>
+## General Jobs <a id="General-Jobs"></a>
 
 General job listings for all types of roles:
 
@@ -43,24 +43,24 @@ Other:
 * [Triplebyte](https://triplebyte.com/a/XqmLNX4/d) - Provides a uniform coding assessment to match developers to job opportunities. 
 * [Woo](https://woo.io/) - Discreetly explore software engineering opportunities, we’ll introduce you to the companies you liked.
 
-### Startups <a id="Startups"></a>
+## Startups <a id="Startups"></a>
 
 * [Startup Jobs with Angelist](https://angel.co/jobs) - Excellent service for finding startups to work with
 * [Startup Jobs with ProductHunt](https://www.producthunt.com/jobs) - Great place for finding product teams that need to hire
 * [Startupers](https://www.startupers.com/) - Simple job listing site for startups
 * [YC Jobs](https://news.ycombinator.com/jobs) - Listing for roles from YC-backed startups
 
-### Mobile <a id="Mobile"></a>
+## Mobile <a id="Mobile"></a>
 
 * [Android Jobs](https://www.androidjobs.io/) - Jobs board specifically for Android engineer roles
 
-### Remote-Work <a id="Remote-Work"></a>
+## Remote-Work <a id="Remote-Work"></a>
 
 * [FlexJobs](https://www.flexjobs.com/) - Access hand-screened remote, part-time, freelance, and flexible jobs—quickly and easily
 * [WeWorkRemotely](https://weworkremotely.com/) - Remote-role specific job board
 * [WorkingNomads](https://www.workingnomads.co/jobs) - Remote-role specific job board
 
-### Specific <a id="Specific"></a>
+## Specific <a id="Specific"></a>
 
 * [RubyNow Jobs](https://jobs.rubynow.com/) - Ruby and Rails specific job board
 
