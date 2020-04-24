@@ -1,3 +1,9 @@
+---
+description: >-
+  In this section, we look at some of the most important ingredients and skills
+  associated with being successful as a software engineer.
+---
+
 # Success as a Software Engineer
 
 The software development industry is highly volatile and dynamic where it’s mandatory for engineers to have a blend of both technical and communication skills in order to let their career flourish. It’s easy to acquire technical expertise by working hard in a professional setting.
