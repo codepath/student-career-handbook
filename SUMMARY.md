@@ -40,6 +40,7 @@
 * [A Deeper Understanding of Java](domain-specific/a-deeper-understanding-of-java.md)
 * [Improving Code Quality](domain-specific/improving-code-quality.md)
 * [Intro to Graphics Programming](domain-specific/intro-to-graphics-programming.md)
+* [Diving into Web Development](domain-specific/diving-into-web-development.md)
 
 ## Bonus
 
