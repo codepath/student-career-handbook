@@ -37,9 +37,12 @@ You can also rent web hosting or web servers from lots of places online.
 
 The main thing is picking which web framework and language to use, the rest of the major things outlined are supported by all major web frameworks. 
 
-Common web frameworks are Javascript + Node.js + [Express](https://expressjs.com/), Ruby + [Rails](https://rubyonrails.org/), Python + [Django](https://rubyonrails.org/), but there are many, many more for almost every language out there!
+Common web frameworks are Javascript + Node.js + [Express](https://expressjs.com/), Ruby + [Rails](https://rubyonrails.org/), Python + [Django](https://rubyonrails.org/), [PHP and Laravel](https://laravel.com/) but there are many, many more for almost every language out there! The two aspects you'll want to consider are:
 
-To start, you’ll want to go through a comprehensive tutorial for the chosen stack such as [https://www.railstutorial.org/book](https://www.railstutorial.org/book) for Ruby on Rails which is a detailed online free book which takes you through all aspects. There are great tutorials out there for all major web development stacks though!
+* **Which programming language do I want to be working in?** \(_PHP/Javascript/Ruby/Python_\)
+* **Which web application framework do I want to be working in?** \(_Express/Rails/Django/Laravel_\)
+
+To start, you’ll want to go through a comprehensive tutorial for the chosen stack such as [https://www.railstutorial.org/book](https://www.railstutorial.org/book) for _Ruby on Rails_ which is a detailed online free book which takes you through all aspects. There are great tutorials out there for all major web development stacks though!
 
 Ruby and Rails is a good place to start if you don’t have a preference with that one I sent you. Start going through, learning the language and following that tutorial.
 
