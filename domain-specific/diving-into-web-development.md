@@ -44,7 +44,7 @@ Common web frameworks are Javascript + Node.js + [Express](https://expressjs.com
 
 To start, you’ll want to go through a comprehensive tutorial for the chosen stack such as [https://www.railstutorial.org/book](https://www.railstutorial.org/book) for _Ruby on Rails_ which is a detailed online free book which takes you through all aspects. There are great tutorials out there for all major web development stacks though!
 
-Ruby and Rails is a good place to start if you don’t have a preference with that one I sent you. Start going through, learning the language and following that tutorial.
+Ruby and Rails is a good place to start if you don’t have another preference, but learning of these web application development frameworks will work just as well. The choice is largely subjective preference for language and framework. Start going through, learning the language and following that tutorial.
 
 Here’s a non profit running beginner Rails courses for free, the curriculum is open source [http://docs.railsbridge.org/docs/](http://docs.railsbridge.org/docs/) and also useful.
 
