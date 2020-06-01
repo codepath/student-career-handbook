@@ -53,7 +53,7 @@ Ideally of course, you’d want to do some of both over your time in school. Whe
 
 However, the side projects you work on, and the experience those projects provide you will both help you differentiate yourself to recruiters when you apply and also make you much better prepared to contribute once you’re in a software role.
 
-We realize that finding the time to do well in your classes, study for technical interviews, and also work on side projects, among the many other responsibilites you may have can feel like _a near impossible task_. The most important thing is to have patience, remember that you don’t have to try to do everything at once, and you don’t need to check every box. **This isn’t a race, it’s a long marathon, and being an engineer is about life-long learning.** Try to take career development one step at a time.
+We realize that finding the time to do well in your classes, study for technical interviews, and also work on side projects, among the many other responsibilities you may have can feel like _a near impossible task_. The most important thing is to have patience, remember that you don’t have to try to do everything at once, and you don’t need to check every box. **This isn’t a race, it’s a long marathon, and being an engineer is about life-long learning.** Try to take career development one step at a time.
 
 ### How can we contribute to open-source software and how do we approach or get started?
 
