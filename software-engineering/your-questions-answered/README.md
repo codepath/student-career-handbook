@@ -136,7 +136,7 @@ The following provides a rough cheatsheet of the various technical areas as a so
 | Technical Area | Related technologies/keywords |
 | :--- | :--- |
 | Web Front-end | Javascript, jQuery, Angular, React, Ember, HTML, CSS, Bootstrap |
-| Web Back-end \(Startup\) | Python, Django, Flask, Pylons, Javacript, Node.js, Express, Sails, Ruby, Rails, Sinatra |
+| Web Back-end \(Startup\) | Python, Django, Flask, Pylons, Javascript, Node.js, Express, Sails, Ruby, Rails, Sinatra |
 | Web Back-end \(Enterprise\) | Java, J2EE, JEE, Spring, Struts, Play, Grails, Scala, Lift, Go |
 | Web Back-end \(Other\) | PHP, Symfony, CakePHP, Zend, C\#, `ASP.NET`, .NET, LAMP |
 | Mobile \(Android\) | Kotlin, Java |
