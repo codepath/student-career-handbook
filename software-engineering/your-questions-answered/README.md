@@ -72,6 +72,7 @@ Here’s a few great resources for getting started in open source as a beginner:
 * [How Junior Developers Can Contribute to Open Source Projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Getting Started in Open-Source](https://www.hackerearth.com/getstarted-opensource/)
+* [Getting Started: Contributing to Open-Source Software](https://medium.com/@emctackett/getting-started-contributing-to-open-source-software-267c3cb3e24b)
 
 ## On Software Engineering
 
