@@ -55,7 +55,7 @@ However, the side projects you work on, and the experience those projects provid
 
 We realize that finding the time to do well in your classes, study for technical interviews, and also work on side projects, among the many other responsibilites you may have can feel like _a near impossible task_. The most important thing is to have patience, remember that you don’t have to try to do everything at once, and you don’t need to check every box. **This isn’t a race, it’s a long marathon, and being an engineer is about life-long learning.** Try to take career development one step at a time.
 
-### How can we contribute to open source software and how do we approach or get started?
+### How can we contribute to open-source software and how do we approach or get started?
 
 **Open-source projects are free open code projects that anyone can use or contribute to from anywhere in the world.** At the heart of most modern software development is the community of open-source projects. The practice of building and maintaining open source software works because people from all over the world, of all levels, abilities, and backgrounds, form communities to support the projects they care about.
 
@@ -63,7 +63,7 @@ Most open source projects don’t have a dedicated staff to support them. Instea
 
 That’s simply not true. Successful open source projects thrive on a wide variety of contributions from people with all levels of coding skills and commitment. Any time someone fixes a compiler warning, closes a bug, or adds to the documentation, progress is made. Put a lot of those contributions together and great things can happen.
 
-Here’s a few great resources for getting started in open source as a beginner:
+Here’s a few great resources for getting started in open-source as a beginner:
 
 * [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/)
 * [Beginner’s Guide to Contributing to Open-Source](https://www.natashatherobot.com/beginners-contributing-to-open-source/)
