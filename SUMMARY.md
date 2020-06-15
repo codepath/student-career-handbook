@@ -16,6 +16,7 @@
 * [Writing a Great Cover Letter](internship-search/writing-a-great-cover-letter.md)
 * [Negotiating on Internship Salary](internship-search/negotiating-on-internship-salary.md)
 * [Early Internship Programs](internship-search/early-internship-programs.md)
+* [Navigating Work Sponsorship in the US](internship-search/navigating-work-sponsorship-in-the-us.md)
 
 ## Technical Interviewing
 
