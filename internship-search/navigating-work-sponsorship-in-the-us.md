@@ -1,12 +1,12 @@
 # Navigating Work Sponsorship in the US
 
-**Deliverables**:
+### **Deliverables**:
 
 · Different types of student visas  
 · How to find an internship or job while studying abroad  
 · What pages/resources can use to determine which companies to sponsor
 
-**What are the types of student visas available?**
+### **What are the types of student visas available?**
 
 As an international student coming to the United States to work, there are different visas that a student may apply for: F1 Visa, M1 Visa, J1 Visa, or H1-B Visa. It is important for students to be familiar with types of visas and how they impact work eligibility.
 
@@ -18,7 +18,7 @@ As an international student coming to the United States to work, there are diffe
 
 **H-1B-** Person in Specialty Occupation: This visa category applies to people who wish to perform services in a specialty occupation, services of exceptional merit and ability relating to a Department of Defense \(DOD\) cooperative research and development project, or services as a fashion model of distinguished merit or ability.
 
-**What types of employment are available for students?**
+### **What types of employment are available for students?**
 
 If you have the right combination of skills, education, and/or work experience, you may be able to live and work permanently in the United States by seeking an employment-based immigrant visa. Below are the types of employment that are available for international students.
 
@@ -31,12 +31,9 @@ For both F-1 and M-1 students, any off-campus training employment must be relate
 **Optional Practical Training \(OPT\):** All OPT must be directly related to your major area of study. If you are an F-1 student, you may be eligible to participate in OPT in two different ways:
 
 * Pre-completion OPT: You may apply to participate in pre-completion OPT after you have been lawfully enrolled on a full-time basis for one full academic year at a college or university that has been certified by the U.S. Immigration and Customs Enforcement \(ICE\) Student and Exchange Visitor Program \(SEVP\) to enroll F-1 students. You do not need to have had F-1 status for one full academic year; you can satisfy the “one full academic year” requirement even if you had another nonimmigrant status during that time.
-
-o If you are authorized to participate in pre-completion OPT, you may work part-time \(20 hours or less per week\) while school is in session. You may work full time when school is not in session.
-
+  * If you are authorized to participate in pre-completion OPT, you may work part-time \(20 hours or less per week\) while school is in session. You may work full time when school is not in session.
 * Post-completion OPT: You may apply to participate in post-completion OPT after completing your studies. If you are authorized for post-completion OPT, you may work part-time \(20 hours or less per week\) or full time.
-
-o If you participated in pre-completion OPT, USCIS will deduct that amount of time from your post-completion OPT authorization period. For example, if you participated in 10 months of pre-completion OPT, you would be eligible for only up to 2 months of post-completion OPT. T
+  * If you participated in pre-completion OPT, USCIS will deduct that amount of time from your post-completion OPT authorization period. For example, if you participated in 10 months of pre-completion OPT, you would be eligible for only up to 2 months of post-completion OPT. T
 
 To apply for OPT, please contact your designated school official for more information.
 
@@ -46,7 +43,7 @@ To apply for OPT, please contact your designated school official for more inform
 
 **H1-B Work Eligibility**_:_ To gain work release under an H1-B visa, students must have a pre-existing employer/employee relationship and must qualify for specialty qualification. To see the requirements for a specialty occupation, [visit the USCIS website.](https://my.uscis.gov/exploremyoptions/h1_visas_for_temporary_workers)
 
-**Where can I find a job or internship while studying abroad in the US?**
+### **Where can I find a job or internship while studying abroad in the US?**
 
 **CodePath.org**: CodePath.org is a nonprofit organization committed to increasing diversity in the tech industry. CodePath hosts monthly [industry events](https://hackmd.io/@morganrichardson/events_cal) and offers a [one-on-one mentoring program](https://codepath.chronus.com/) to help international students connect with seasoned professionals that can help them navigate their career in tech.
 
@@ -58,7 +55,7 @@ To apply for OPT, please contact your designated school official for more inform
 
 **Visa Aggregators:** There are a handful of websites that aggregate lists of companies that sponsor international workers. [https://www.myvisajobs.com/](https://www.myvisajobs.com/) and [https://www.immihelp.com/h1b-visa-sponsors/](https://www.immihelp.com/h1b-visa-sponsors/) are two examples. 
 
-**How can I find out if a company sponsors H1-B visas?**
+### **How can I find out if a company sponsors H1-B visas?**
 
 **H-1B Employer Data Hub:** The data hub provides an additional layer of transparency to the H-1B program by providing information on employers petitioning for H-1B workers. The hub allows the public to search for H-1B petitioners by fiscal year, [NAICS code](https://www.census.gov/eos/www/naics/), employer name, city, state, or ZIP code. Students can learn more about the data hub at [https://www.uscis.gov/h-1b-data-hub](https://www.uscis.gov/h-1b-data-hub)
 
