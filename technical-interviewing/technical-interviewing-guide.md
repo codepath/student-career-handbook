@@ -29,7 +29,7 @@ Ahead of your interview, you want to take that extra time to learn about the com
 * How do you define "having an impact"? \(based on your goals and experiences\)
 * Why would you like to work there?
 
-If you have a clear understanding of what the company does, and why you would like to work there, then you are already ahead of the game on interview day! 
+If you have a clear understanding of what the company does, and why you would like to work there, then you are already ahead of the game! 
 
 ### Beginning the interview <a id="Beginning-the-interview"></a>
 
