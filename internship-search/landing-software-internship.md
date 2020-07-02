@@ -43,7 +43,7 @@ For summer internships, the recruiting season kicks off in August/September. I w
 A lot of larger companies finish their recruiting by November/December. If you’re reaching out to friends it’s great to get an early start, for example, in late August or early September. Even if you start in Spring, you can still apply all the strategies below and have a great chance of getting an internship.
 
 {% hint style="warning" %}
-The application funnel here can often be more challenging than you might initially expect. Many students report applying to _100 different companies for summer software engineering internship positions_. Of those 100, it's not uncommon for students to report _getting 8-10 phone interviews_, and then for half of those \(4-5\) to advance to an on-site. You may not hear back from half of the companies you apply to. The most important thing is to not give up and to apply to enough places, stick with it, and work to get your pick of a few good options for your internship.  
+The application funnel can often be more challenging than you might initially expect. Many students report applying to _100 different companies for summer software engineering internship positions_. Of those 100, it's not uncommon for students to report _getting 8-10 phone interviews_, and then for half of those \(4-5\) to advance to an on-site. You may not hear back from half of the companies you apply to. The most important thing is to not give up and to apply to enough places, stick with it, and work to get your pick of a few good options for your internship.  
 {% endhint %}
 
 #### 2. Connections are your most important tool <a id="2-Connections-are-your-most-important-tool"></a>
