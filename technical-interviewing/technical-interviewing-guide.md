@@ -17,6 +17,20 @@ Internship interviews tend to fall into one of three categories:
 
 We’ll explain these in more depth below, adding details on how to prepare for each category. Note that not every interview falls precisely into one of the three categories, and some interviews are a mix of multiple categories.
 
+### Prep Before the Interview
+
+A popular question you will get asked is a variation of "Why this company?" in which the interviewer wants to understand from you why you want to work with them in particular. This is an important question to be prepared for on the day of the interview.
+
+Ahead of your interview, you want to take that extra time to learn about the companies. Think about why the company exists in the first place and ask these questions:
+
+* What's their mission?
+* What are their products? Which ones do you like and why?
+* How would they define "having an impact"? \(based on their mission\)
+* How do you define "having an impact"? \(based on your goals and experiences\)
+* Why would you like to work there?
+
+If you have a clear understanding of what the company does, and why you would like to work there, then you are already ahead of the game on interview day! 
+
 ### Beginning the interview <a id="Beginning-the-interview"></a>
 
 Some bigger companies dive straight into the technical part of interviews, but your interviewer will **almost always** ask you a very important question \(or some variant\) that you should prepare:
@@ -26,7 +40,7 @@ Some bigger companies dive straight into the technical part of interviews, but y
 Keep it succinct! This should be a minute or two at most. Hit the important points about your interests and experience. Additionally, be prepared for questions that **highlight your interest in the company**. For example, why you want to work here, what you like about the product, a feature or improvement you might like to work on during a hackathon.
 
 {% hint style="info" %}
-Have a well-prepared intro that highlights one project or a team that you worked on previously. We highly recommend rehearsing your spiel ahead of time. It will give you a few moments to slow your breathing and heart rate down, and settle in to the interview environment. Plus, having a good answer to this question can set the right tone.
+Have a well-prepared intro that highlights one project or a team that you worked on previously. We highly recommend rehearsing your spiel ahead of time. It will give you a few moments to slow your breathing and heart rate down and settle into the interview environment. Plus, having a good answer to this question can set the right tone.
 {% endhint %}
 
 ### 1: The programming interview <a id="1-The-programming-interview"></a>
@@ -63,16 +77,16 @@ The technical interviews tend to involve coding questions of the following data 
 
 * Complexity Analysis: [Big-O Notation](https://www.interviewcake.com/big-o-notation-time-and-space-complexity)
 * Core data structures: [Hash Tables](https://www.interviewcake.com/concept/hash-map), [Arrays](https://www.interviewcake.com/concept/array), [Linked Lists](https://www.interviewcake.com/concept/linked-list), [Stacks](https://www.interviewcake.com/concept/stack)/[Queues](https://www.interviewcake.com/concept/queue)
-* Searches: [Binary Search](https://www.interviewcake.com/concept/binary-search), [Breadth First Search](https://www.interviewcake.com/concept/bfs)/[Depth First Search](https://www.interviewcake.com/concept/dfs)
+* Searches: [Binary Search](https://www.interviewcake.com/concept/binary-search), [Breadth-First Search](https://www.interviewcake.com/concept/bfs)/[Depth-First Search](https://www.interviewcake.com/concept/dfs)
 * Graph data structures: [Binary Trees](https://www.interviewcake.com/concept/binary-tree), [Graphs](https://www.interviewcake.com/concept/graph)
 
 In particular, depth-and breadth-first search \(DFS and BFS, respectively\) can be extremely popular questions so be sure to practice them. You might also encounter harder topics such as these but you will tend to see them less frequently for internship interviews:
 
 * Sorting: Merge Sort and Quick Sort
-* Recursion and Combinatorials
+* Recursion and Combinatorial
 * [Dynamic Programming](https://www.interviewcake.com/concept/overlapping-subproblems)
 * [Greedy Algorithms](https://www.interviewcake.com/concept/greedy)
-* Object Oriented Design \(OOP\)
+* Object-Oriented Design \(OOP\)
 
 If you are looking for introductions to these concepts that are fun and accessible, check out [BaseCS](https://hackmd.io/s/HJ9YQDE2b) and the [related podcast](https://www.codenewbie.org/basecs). You can also read through this [algorithms tutorial series](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/). For more resources, check out our [data structures and algorithms links](https://hackmd.io/s/rkg8GyDiQ) guide.
 
@@ -82,17 +96,17 @@ Before walking in for a technical interview, **you need to study and practice fo
 
 * **Use Leetcode to Practice**: To practice coding problems, check out [Leetcode](https://leetcode.com/). Focus on these topics: string manipulation, linked lists, doubly linked lists, hash tables, trees, queues, stacks, depth-first search, breadth-first-search, basic graphs, basic complexity.
 * **Check Glassdoor**: Many companies have interview questions on [Glassdoor](https://www.glassdoor.com/index.htm). Your goal isn’t to study the interview questions in advance, but you can get a good idea of the general difficulty of the programming questions.
-* **Practice talking while you solve problems**: When you feel a bit more prepared, you can do a mock interview to see where you’re standing. Check out [Mock Interviews](http://www.mock-interviews.com/) or [Pramp](https://www.pramp.com/). You will receive feedback afterwards with details about what went well and what you need to improve, which will definitely help you for upcoming interviews.
+* **Practice talking while you solve problems**: When you feel a bit more prepared, you can do a mock interview to see where you’re standing. Check out [Mock Interviews](http://www.mock-interviews.com/) or [Pramp](https://www.pramp.com/). You will receive feedback afterward with details about what went well and what you need to improve, which will definitely help you with upcoming interviews.
 
 #### Coding Interview Tips <a id="Coding-Interview-Tips"></a>
 
-* While working through a problem, it’s natural to need some time to think. Feel free to take a breath and a few moments to think before verbalizing your thoughts to reduce confusion of the interviewer. At the same time, try to avoid staying quiet for long periods of time, it’s important to keep the interviewer “in your loop” and talk them through your approach. This can often allow them to help you along and provide guidance as well.
-* Pick a language you feel most comfortable with when interviewing and use that whenever possible. Make sure you have a solid understanding of data structures and algorithms and their respective APIs in that language. Most interviewers will have no problem letting you look up \(or telling you\) an API call, but keep in mind that time is a precious resource! Knowing that stuff beforehand gives you more time and head space to focus on the problem at hand.
-* Be sure to ask any questions you have about edge cases, assumptions, etc directly to the interviewer. You can double check to confirm details about the problem, if you have to deal with bad or invalid input, etc. Questions are good and they show the interviewer that you consider all aspects of the problem instead of just diving in head-first.
+* While working through a problem, it’s natural to need some time to think. Feel free to take a breath and a few moments to think before verbalizing your thoughts to reduce the confusion of the interviewer. At the same time, try to avoid staying quiet for long periods of time, it’s important to keep the interviewer “in your loop” and talk them through your approach. This can often allow them to help you along and provide guidance as well.
+* Pick a language you feel most comfortable with when interviewing and use that whenever possible. Make sure you have a solid understanding of data structures and algorithms and their respective APIs in that language. Most interviewers will have no problem letting you look up \(or telling you\) an API call, but keep in mind that time is a precious resource! Knowing that stuff beforehand gives you more time and headspace to focus on the problem at hand.
+* Be sure to ask any questions you have about edge cases, assumptions, etc directly to the interviewer. You can double-check to confirm details about the problem, if you have to deal with bad or invalid input, etc. Questions are good and they show the interviewer that you consider all aspects of the problem instead of just diving in head-first.
 
 ### 2: The “what you’ve done” interview <a id="2-The-&#x201C;what-you&#x2019;ve-done&#x201D;-interview"></a>
 
-The **“what you’ve done” interview** is a non-technical, pleasant conversation with your interviewer, where you get the opportunity to talk about your resume and projects. This type of interview was more common in small and medium sized companies.
+The **“what you’ve done” interview** is a non-technical, pleasant conversation with your interviewer, where you get the opportunity to talk about your resume and projects. This type of interview was more common in small and medium-sized companies.
 
 These interviews are an opportunity to pitch yourself as a passionate developer. You can talk about research, past internships, and/or other interesting experiences related to software.
 
@@ -112,7 +126,7 @@ Be prepared to talk in-depth about any jobs and projects on your resume. For eac
 
 If you prepare these answers, you’ll be ready to answer a more general question that frequently shows up in interviews:
 
-* Tell me about a technical challenge that you had.
+* Tell me about an interesting technical challenge that you have encountered.
 
 ### 3: The domain-specific interview <a id="3-The-domain-specific-interview"></a>
 
@@ -144,7 +158,7 @@ If the interviewer hadn’t described himself or herself yet, the first thing yo
 
 > Can you tell me more about what you do?
 
-Let the conversation flow from there. Make sure you have some questions prepared to ask the engineer. Think about questions that demonstrates a curiosity in working for the company. Some examples:
+Let the conversation flow from there. Make sure you have some questions prepared to ask the engineer. Think about questions that demonstrate a curiosity in working for the company. Some examples:
 
 * Asking about the different teams in the engineering organization.
 * Asking what the Engineer enjoys most about working at the company.
@@ -162,7 +176,7 @@ For companies based in the US, your resume should not be longer than one page. M
 
 Make sure your resume looks professional – spacing, font, structure. Use a serif font!
 
-If your resume is too long, consider cutting out parts that are not tech related – clubs, extracurriculars, experience in a different field.
+If your resume is too long, consider cutting out parts that are not tech-related – clubs, extracurriculars, experience in a different field.
 
 Finally, don’t include things like your high school GPA, because they don’t matter to the people reading your resume.
 
@@ -176,11 +190,11 @@ It depends on the company, but if you’re a freshman \(first year\) or a sophom
 
 > How long can it take to hear back after an interview?
 
-It varies by company. From small to medium sized companies, you might hear back anywhere from a day to a week. After a final round interview, it can take a big company two weeks to a month to respond with either an offer or rejection.
+It varies by company. From small to medium-sized companies, you might hear back anywhere from a day to a week. After a final round interview, it can take a big company two weeks to a month to respond with either an offer or rejection.
 
 > How can I overcome nervousness during interviews?
 
-Practice a lot before you interview, and build up your confidence **solving problems while you talk**.
+Practice a lot before your interview, and build up your confidence **solving problems while you talk**.
 
 In some of the algorithmic interviews, if you start doing poorly, you might start to freeze or panic. If this happens to you, consider telling the interviewer, “Let me consolidate my thoughts for a moment.” Take a few deep breaths, don’t think about anything, and then tackle the question again.
 
