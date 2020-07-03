@@ -59,20 +59,9 @@ We realize that finding the time to do well in your classes, study for technical
 
 **Open-source projects are free open code projects that anyone can use or contribute to from anywhere in the world.** At the heart of most modern software development is the community of open-source projects. The practice of building and maintaining open source software works because people from all over the world, of all levels, abilities, and backgrounds, form communities to support the projects they care about.
 
-Most open source projects don’t have a dedicated staff to support them. Instead, developers and users from around the world work on them, often in their spare time. For many programmers, though, the thought of contributing to open source projects seems too difficult and time-consuming. They think that you have to be a programming genius blessed with unlimited free time to make a meaningful contribution.
+{% page-ref page="../contributing-to-open-source.md" %}
 
-That’s simply not true. Successful open source projects thrive on a wide variety of contributions from people with all levels of coding skills and commitment. Any time someone fixes a compiler warning, closes a bug, or adds to the documentation, progress is made. Put a lot of those contributions together and great things can happen.
-
-Here’s a few great resources for getting started in open-source as a beginner:
-
-* [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/)
-* [Beginner’s Guide to Contributing to Open-Source](https://www.natashatherobot.com/beginners-contributing-to-open-source/)
-* [How to contribute to open-source](https://opensource.guide/how-to-contribute/)
-* [How to make your first open source contribution in just 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a)
-* [How Junior Developers Can Contribute to Open Source Projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
-* [First Timers Only](https://www.firsttimersonly.com/)
-* [Getting Started in Open-Source](https://www.hackerearth.com/getstarted-opensource/)
-* [Getting Started: Contributing to Open-Source Software](https://medium.com/@emctackett/getting-started-contributing-to-open-source-software-267c3cb3e24b)
+Check out our [guide to contributing to open-source](../contributing-to-open-source.md) here to learn more!
 
 ## On Software Engineering
 

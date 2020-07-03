@@ -35,6 +35,7 @@
 * [Exploring System Architectures](software-engineering/exploring-system-architecture.md)
 * [Success as a Software Engineer](software-engineering/success-as-a-software-engineer.md)
 * [On Becoming a Senior Engineer](software-engineering/on-becoming-a-senior-engineer.md)
+* [Contributing to Open-source](software-engineering/contributing-to-open-source.md)
 
 ## Domain-Specific
 
