@@ -33,7 +33,8 @@
 * [Software Career Tracks](software-engineering/software-career-tracks.md)
 * [Software Design Patterns](software-engineering/software-design-patterns.md)
 * [Exploring System Architectures](software-engineering/exploring-system-architecture.md)
-* [Success as a Software Engineer](software-engineering/success-as-a-software-engineer.md)
+* [Software Engineer Success](software-engineering/success-as-a-software-engineer/README.md)
+  * [More Engineering Advice](software-engineering/success-as-a-software-engineer/more-engineering-advice.md)
 * [On Becoming a Senior Engineer](software-engineering/on-becoming-a-senior-engineer.md)
 * [Contributing to Open-source](software-engineering/contributing-to-open-source.md)
 
