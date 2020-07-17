@@ -25,6 +25,7 @@
 * [Studying for Tech Interviews](technical-interviewing/studying-for-tech-interviews/README.md)
   * [Interview Prep Resources, Part I](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-i.md)
   * [Interview Prep Resources, Part 2](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-2.md)
+  * [Study Game Plan](technical-interviewing/studying-for-tech-interviews/study-game-plan.md)
 
 ## Software Engineering
 
