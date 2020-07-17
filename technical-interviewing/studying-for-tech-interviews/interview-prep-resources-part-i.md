@@ -1,4 +1,4 @@
-# Interview Prep Resources, Part I
+# Prep Resources, Part I
 
 ℹ️ Below is an even longer list of resources for technical interview prep you can check out:
 
