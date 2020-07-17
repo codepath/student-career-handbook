@@ -22,7 +22,9 @@
 
 * [Technical Interviewing Guide](technical-interviewing/technical-interviewing-guide.md)
 * [Anatomy of an Interview](technical-interviewing/anatomy-of-an-interview.md)
-* [Studying for Tech Interviews](technical-interviewing/studying-for-tech-interviews.md)
+* [Studying for Tech Interviews](technical-interviewing/studying-for-tech-interviews/README.md)
+  * [Interview Prep Resources, Part I](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-i.md)
+  * [Interview Prep Resources, Part 2](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-2.md)
 
 ## Software Engineering
 

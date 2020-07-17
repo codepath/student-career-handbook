@@ -1,0 +1,16 @@
+# Interview Prep Resources, Part 2
+
+**Source:** [https://twitter.com/RandallKanna/status/1263309093457944576](https://twitter.com/RandallKanna/status/1263309093457944576)
+
+* This list includes incredible book suggestions for learning everything you need to know about CS. I have a ton of these books. [https://teachyourselfcs.com](https://t.co/srkar08Rbp?amp=1)
+* [Harvard's \(free!\) Introduction to Computer Science course](https://t.co/uaCiaJgiGA?amp=1) is a classic.
+* Feeling overwhelmed and need somewhere to start? Want a great JavaScript resource? [Try this course](https://t.co/3SqMVNJtgs?amp=1)
+* [Data Structure and Algorithm Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) on Udacity \(and a [good follow-on course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)\)
+* A [multi-month study plan for winning at an interview](https://t.co/1oRpUXbYu7?amp=1) with Google or Facebook even if you don't have a CS degree. Definitely the most thorough guide I've ever seen.
+* Site to find practice questions for interviews. [https://leetcode.com/problemset/all/](https://t.co/u9WXV631ua?amp=1).
+* Get some experience interviewing with mock interviews online and free with [Pramp](https://t.co/zcXRR8Qm8m?amp=1)
+* [Gaming CS Interviews](https://blog.transitivebullsh.it/gaming-cs-interviews/) - Great article on how to succeed in technical interviews
+* [HackerRank Interactive Prep Kit ](https://www.hackerrank.com/interview/interview-preparation-kit)
+
+
+

@@ -110,7 +110,7 @@ As part of most internships and software roles, you’ll often be asked three ty
 * Past experience interviews \(“what have you done”\)
 * Domain-specific interviews \(“what do you know”\)
 
-Check out this [internship interview guide here](../technical-interviewing/technical-interviewing-guide.md) for a look at all the details on how to prepare and what to expect. To learn more about the coding interviews specifically, check out our [guide on studying for coding interviews](../technical-interviewing/studying-for-tech-interviews.md).
+Check out this [internship interview guide here](../technical-interviewing/technical-interviewing-guide.md) for a look at all the details on how to prepare and what to expect. To learn more about the coding interviews specifically, check out our [guide on studying for coding interviews](../technical-interviewing/studying-for-tech-interviews/).
 
 #### 4. Side projects transform your resume from good to great <a id="4-Side-projects-transform-your-resume-from-good-to-great"></a>
 

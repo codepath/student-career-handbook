@@ -31,7 +31,7 @@ Take things one step at a time. Try to focus your learning and time around parti
 
 **Or complete additional action items:**
 
-* Further [studying for technical interviewing](technical-interviewing/studying-for-tech-interviews.md), either by yourself or with peers leveraging online resources
+* Further [studying for technical interviewing](technical-interviewing/studying-for-tech-interviews/), either by yourself or with peers leveraging online resources
 * Find [at least one mentor](bonus/finding-a-mentor.md) you can check-in with periodically that can provide you support or [sign up for a mentor through our tech mentorship program](https://codepath.chronus.com/)
 * Personally mentor at least one student earlier in their career than you to strengthen your own understanding
 * Help lead a class as a TechFellow on at least one course they completed or provide technical support to other students
