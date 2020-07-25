@@ -59,4 +59,5 @@
 * [Get into Top Tech Companies](bonus/getting-into-top-tech-companies.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
 * [Online Content to Explore](bonus/online-content-to-explore.md)
+* [Things Founders Should Know](bonus/things-founders-should-know.md)
 
