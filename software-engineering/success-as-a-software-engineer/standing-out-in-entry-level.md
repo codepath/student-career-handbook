@@ -1,4 +1,4 @@
-# Standing Out in Entry-Level
+# Standing Out at Entry-Level
 
 **Source:** [https://www.linkedin.com/pulse/how-stand-out-entry-level-software-engineer-xavier-e-l%C3%B3pez/](https://www.linkedin.com/pulse/how-stand-out-entry-level-software-engineer-xavier-e-l%C3%B3pez/)
 
