@@ -16,4 +16,4 @@
 * Significant advances shipped by the tech industry in the last 20 years include putting the majority of human knowledge in the hands of 40%++ of the world's population, available on-demand, for "coffee money" not "university money."
 * Startups are \(by necessity\) filled with generalists; big companies are filled with specialists. People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true.
 * Most open source software is written by programmers who are full-time employed by companies which directly consume the software, at the explicit or implicit blessing of their employers. It is not charity work, any more than they charitably file taxes.
-* 
+
