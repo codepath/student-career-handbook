@@ -26,6 +26,7 @@
   * [Prep Resources, Part I](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-i.md)
   * [Prep Resources, Part 2](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-2.md)
   * [Study Game Plan](technical-interviewing/studying-for-tech-interviews/study-game-plan.md)
+* [Whiteboard Interview Tips](technical-interviewing/whiteboard-interview-tips.md)
 
 ## Software Engineering
 
