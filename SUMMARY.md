@@ -39,6 +39,7 @@
 * [Software Engineer Success](software-engineering/success-as-a-software-engineer/README.md)
   * [Seven Pieces of Advice](software-engineering/success-as-a-software-engineer/seven-pieces-of-advice.md)
   * [Standing Out at Entry-Level](software-engineering/success-as-a-software-engineer/standing-out-in-entry-level.md)
+  * [Don't Just Copy & Paste](software-engineering/success-as-a-software-engineer/dont-just-copy-and-paste.md)
   * [More Engineering Advice](software-engineering/success-as-a-software-engineer/more-engineering-advice.md)
 * [On Becoming a Senior Engineer](software-engineering/on-becoming-a-senior-engineer.md)
 * [Contributing to Open-source](software-engineering/contributing-to-open-source.md)
