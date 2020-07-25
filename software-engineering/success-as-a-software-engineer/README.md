@@ -94,7 +94,7 @@ Look beyond the specific coding acumen, and start early thinking about the follo
 
 1. **Being able to communicate clearly** 
    * In business terms - not in tech jargon - with business people / non-technical co-workers.
-2. A **high-level understanding of how systems work**:
+2. **A** **high-level understanding of how systems work**:
    * Design patterns
    * how to abstract systems into manageable layers
    * how the business or product ought to influence the structure of your app/code
