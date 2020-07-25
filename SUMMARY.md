@@ -58,4 +58,5 @@
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
 * [Get into Top Tech Companies](bonus/getting-into-top-tech-companies.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
+* [Online Content to Explore](bonus/online-content-to-explore.md)
 
