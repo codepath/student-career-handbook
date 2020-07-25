@@ -12,7 +12,7 @@ The guide assumes some knowledge of certain technical terms used throughout but 
 
 👈🏽 Jump to any section by clicking on the sidebar or 👇🏽 start by reviewing the content below!
 
-* **Interested to understand more about a career in software engineering?** Check out our [your questions answered](software-engineering/your-questions-answered/) guide for answers to common questions.
+* **Interested to understand more about a career in software engineering?** Check out [our questions answered](software-engineering/your-questions-answered/) page for answers to common questions.
 * **Interested in the specific steps you should complete while in college?** [Check out our success checklist](success-checklist.md) for a high-level overview.
 * **Interested in the skills and knowledge you’ll develop over your career as a software engineer?** [Check out the skills and knowledge map](skills-and-knowledge-tree.md) for a high-level introduction.
 * **Interested in starting or improving your resume?** Check out our [starter kit](https://goo.gl/q5dp5w) or [resume improvement guide](internship-search/student-resume-guide.md)
