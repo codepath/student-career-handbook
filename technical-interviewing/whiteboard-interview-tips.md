@@ -1,8 +1,0 @@
-# Whiteboard Interview Tips
-
-\*\*\*\*
-
-
-
-
-
