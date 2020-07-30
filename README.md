@@ -44,11 +44,11 @@ Check out our guide [Software Engineering - Your Questions Answered](software-en
 Your internship search begins with a resume and LinkedIn profile:
 
 * If you **do not have a resume**, [check out these materials for creating one](https://goo.gl/q5dp5w) based on our template.
-* If you **already have a resume**, [check out our guide for improving your resume](internship-search/student-resume-guide.md) based on those guidelines and then fill out the form above to schedule an appointment for a review.
+* If you **already have a resume**, [check out our guide for improving your existing resume](internship-search/student-resume-guide.md).
 
 ### 3. Applying for Internships <a id="3-Applying-for-Internships"></a>
 
-Your next step is applying for internships, this is about finding a set of companies and applying to them, and attending career fairs in order to setup a number of internship interviews:
+Your next step is applying for internships, this is about finding a set of companies and applying to them, and attending career fairs in order to set up a number of internship interviews:
 
 If you are a Sophomore or Junior, check out our [3-steps to an internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) guide for a detailed walkthrough of how to start your summer internship search.
 
