@@ -45,3 +45,4 @@ Blog, podcasts, courses, or websites you might want to explore:
 * [Hanselminutes Podcast](https://hanselminutes.com/archives) - Interviews with interesting tech-related people
 * [Gitcute Podcast](https://gitcutepodcast.com/) - Making tech news obtainable and cute one podcast at a time.
 * [Codebar](https://codebar.io/) - Runs regular programming workshops.
+
