@@ -68,6 +68,7 @@ After finishing your resume, have your peers review it. Ask them to be honest an
 * If you took our Mobile App Design course, you can add this as an extracurricular activity: `CodePath.org University: Mobile Application Design course`. You can choose to add a note like “Attended 12-week program which involved designing and scoping our own mobile app and building a fully functional Flash Card app from scratch over several coding labs.”
 * If you built projects in our courses that are on your github, be sure to include those in a “Projects” section alongside other portfolio pieces. Be sure to describe the project \(“Built and published a functional Instagram-like Android app which allows users to share photos with friends and family”\) **and** include a link to the Github repo.
 * CodePath is listed as a school in LinkedIn, so you can also add us in your Education section and it should autocomplete with the icon and info. You could include images or even video demo of your app at the end of the course. There’s also a section in LinkedIn for projects.
+* If you're a Tech Fellow, [check out this guide ](https://docs.google.com/document/d/1xpwOZGWf-QJf7gtSWWqb72HhUxEAsNdrYTdv_W9mwf8/edit?usp=sharing)demonstrating how to add your leadership experience to your resume.
 
 #### How is a resume actually used? <a id="How-is-a-resume-actually-used"></a>
 
