@@ -21,6 +21,7 @@ Check out this [internship interview guide](../../technical-interviewing/technic
 * **Web Back-end Development**. We recommend you check out how to build web application back-ends \(server-side development\) using a language such as [Node.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) or [Ruby on Rails](https://www.railstutorial.org/book/beginning)
 * **UNIX / Command-line**. You’ll want to explore how to use the [command-line in various ways](http://matt.might.net/articles/basic-unix/) especially on the UNIX platform. You’ll be really glad you are comfortable with UNIX.
 * **Version Control / Git**. You’ll want to explore using version control systems such as [Git](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) to store and track your code. Bonus points for using Git to build a project with a few friends.
+* **Software Deployment** Part of being a full-time engineer, familiarizing yourself with the processes and tools of making the application work on a target device, whether it be a test server, production environment or a user's computer or mobile device is an essential skill. 
 
 You can check out our [skills and knowledge tree](../../skills-and-knowledge-tree.md) for a more detailed look. Note that no one is going to become an expert at everything, this is not a checklist to complete. Instead, **focus on exploring the areas that are most interesting to you**, and enable you to develop projects.
 
