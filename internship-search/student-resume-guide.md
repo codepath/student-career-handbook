@@ -83,6 +83,6 @@ Once you’ve prepared your resume, you might find it is helpful to think about 
 
 Adapted from these posts:
 
-* [https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
-* [https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
+* [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+* [How to write a great resume for software engineers](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 

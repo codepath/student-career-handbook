@@ -53,11 +53,11 @@ To apply for OPT, please contact your designated school official for more inform
 
 **Professors**: Many college professors have connections to professionals in the tech industry that can advance student’s career goals. Students are encouraged to make their career goals known so that professors can support them.
 
-**Visa Aggregators:** There are a handful of websites that aggregate lists of companies that sponsor international workers. [https://www.myvisajobs.com/](https://www.myvisajobs.com/) and [https://www.immihelp.com/h1b-visa-sponsors/](https://www.immihelp.com/h1b-visa-sponsors/) are two examples. 
+**Visa Aggregators:** There are a handful of websites that aggregate lists of companies that sponsor international workers. [myvisajobs.com](https://www.myvisajobs.com/) and [immihelp.com/h1b-visa-sponsors/](https://www.immihelp.com/h1b-visa-sponsors/) are two examples. 
 
 ### **How can I find out if a company sponsors H1-B visas?**
 
-**H-1B Employer Data Hub:** The data hub provides an additional layer of transparency to the H-1B program by providing information on employers petitioning for H-1B workers. The hub allows the public to search for H-1B petitioners by fiscal year, [NAICS code](https://www.census.gov/eos/www/naics/), employer name, city, state, or ZIP code. Students can learn more about the data hub at [https://www.uscis.gov/h-1b-data-hub](https://www.uscis.gov/h-1b-data-hub)
+**H-1B Employer Data Hub:** The data hub provides an additional layer of transparency to the H-1B program by providing information on employers petitioning for H-1B workers. The hub allows the public to search for H-1B petitioners by fiscal year, [NAICS code](https://www.census.gov/eos/www/naics/), employer name, city, state, or ZIP code. Students can learn more about the data hub at [USCIS h-1b-data-hub](https://www.uscis.gov/h-1b-data-hub)
 
 **Company Websites:** Companies that sponsor visas typically disclose specific information on their website or in job descriptions. If the information is unavailable, students can reach out to the company’s Human Resource Manager to learn more.
 

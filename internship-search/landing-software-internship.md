@@ -129,5 +129,5 @@ You can pick any of these ways or many others to start building your out of clas
 
 ### Attribution <a id="Attribution"></a>
 
-This post was adapted from [https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a](https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a) by Tatiana Doyle
+This post was adapted from [FreeCodeCamp](https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a) by Tatiana Doyle
 

@@ -37,7 +37,7 @@ This one is in some ways the most challenging. You can build a side business to 
 
 Here are some links to get you thinking about what starting a business involves:
 
-* [https://www.entrepreneur.com/article/295932](https://www.entrepreneur.com/article/295932)
-* [https://www.quora.com/For-a-young-developer-which-is-the-best-way-to-earn-money-building-own-desktop-apps-web-apps-or-mobile-apps](https://www.quora.com/For-a-young-developer-which-is-the-best-way-to-earn-money-building-own-desktop-apps-web-apps-or-mobile-apps)
-* [https://getunbound.org/blog/business-ideas-for-college-students](https://getunbound.org/blog/business-ideas-for-college-students)
+* [9 Tips for Starting Your Business in College](https://www.entrepreneur.com/article/295932)
+* [For a young developer, which is the best way to earn money - building own desktop apps, web apps or mobile apps?](https://www.quora.com/For-a-young-developer-which-is-the-best-way-to-earn-money-building-own-desktop-apps-web-apps-or-mobile-apps)
+* [9 Business Ideas for College Students](https://getunbound.org/blog/business-ideas-for-college-students)
 
