@@ -21,7 +21,7 @@ Be sure to look out for the following things:
 There are many great style guides online, you can check a few suggested language-specific ones below:
 
 * [Python](https://docs.python-guide.org/writing/style/)
-* [Java](https://medium.com/@aliesaassadi/android-java-style-guide-515d99d888a5)
+* [Java for Android](https://medium.com/@aliesaassadi/android-java-style-guide-515d99d888a5)
 * [Swift](https://github.com/raywenderlich/swift-style-guide)
 
 If you are working in a different language, you can often find them many of these as top results for `“[language] style guide”` on Google.

@@ -26,8 +26,8 @@ There are plenty of other helpful resources for learning Java:
 
 For a more in-depth look, you can also check out books \(available online or in print\):
 
-* [Head First Java Book](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208)
-* [Java: A Beginners Guide](http://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/0071809252)
+* [Head First Java Book](https://learning.oreilly.com/library/view/head-first-java/0596009208/)
+* [Java: A Beginners Guide](https://learning.oreilly.com/library/view/java-a-beginners/9781260440225/)
 * [Free Java Book](http://java2s.com/Book/Java/CatalogJava.htm) - Solid online book
 
 ### Additional Learning Resources <a id="Additional-Learning-Resources"></a>

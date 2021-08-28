@@ -1,7 +1,5 @@
 # Things Founders Should Know
 
-**Source**: [https://threadreaderapp.com/thread/936615043126370306.html](https://threadreaderapp.com/thread/936615043126370306.html)
-
 * Your idea is not valuable, at all. All value is in the execution. You think you are an exception; you are not. You should not insist on an NDA to talk about it; nobody serious will engage in contract review over an idea, and this will mark you as clueless.
 * Technologists tend to severely underestimate the difficulty and expense of creating software, especially at companies which do not have fully staffed industry-leading engineering teams
 * Charge more. Charge more still. Go on.
@@ -17,3 +15,5 @@
 * Startups are \(by necessity\) filled with generalists; big companies are filled with specialists. People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true.
 * Most open source software is written by programmers who are full-time employed by companies which directly consume the software, at the explicit or implicit blessing of their employers. It is not charity work, any more than they charitably file taxes.
 
+
+[Source](https://threadreaderapp.com/thread/936615043126370306.html)
