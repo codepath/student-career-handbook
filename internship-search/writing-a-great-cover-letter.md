@@ -41,5 +41,5 @@ Thank you for your consideration, and I look forward to hearing from you soon.
 
 ### References <a id="References"></a>
 
-* [https://resumegenius.com/how-to-write-a-cover-letter](https://resumegenius.com/how-to-write-a-cover-letter)
+* [How to Write a Cover Letter](https://resumegenius.com/how-to-write-a-cover-letter)
 

@@ -119,17 +119,17 @@ Here are a few additional considerations and notes:
 
 If you receive a job offer, many engineers choose not to negotiate their offer. It’s up to every individual but for those comfortable with being upfront the vast majority of companies are more than happy to negotiate with candidates during the offer process. Review these articles for more information:
 
-* [https://www.themuse.com/advice/3-steps-to-negotiating-a-startup-job-offer](https://www.themuse.com/advice/3-steps-to-negotiating-a-startup-job-offer)
-* [http://mashable.com/2014/10/11/negotiating-salary-startup-corporate/](http://mashable.com/2014/10/11/negotiating-salary-startup-corporate/)
-* [https://keen.io/blog/29904565692/how-i-negotiated-my-startup-compensation](https://keen.io/blog/29904565692/how-i-negotiated-my-startup-compensation)
-* [http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
-* [https://simpleprogrammer.com/salary-negotiation-software-developers/](https://simpleprogrammer.com/salary-negotiation-software-developers/)
+* [3 Steps to Negotiating a Start-up Job Offer](https://www.themuse.com/advice/3-steps-to-negotiating-a-startup-job-offer)
+* [Negotiating Salary at a Startup Versus a Corporation](http://mashable.com/2014/10/11/negotiating-salary-startup-corporate/)
+* [How I Negotiated My Startup Compensation](https://keen.io/blog/29904565692/how-i-negotiated-my-startup-compensation)
+* [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
+* [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/salary-negotiation-software-developers/)
 
 If you’ve done your research on market salaries and equity and the offer comes up short, negotiations are a great way to ensure you receive a compensation package that you feel is fair.
 
 ### References <a id="References"></a>
 
-* [https://medium.freecodecamp.org/how-to-handle-salary-negotiations-in-your-tech-career-like-a-pro-5ea87ddcca76](https://medium.freecodecamp.org/how-to-handle-salary-negotiations-in-your-tech-career-like-a-pro-5ea87ddcca76)
-* [https://workplace.stackexchange.com/questions/12807/is-it-appropriate-to-negotiate-for-an-internship-position](https://workplace.stackexchange.com/questions/12807/is-it-appropriate-to-negotiate-for-an-internship-position)
-* [https://www.paysa.com/blog/how-to-negotiate-an-internship-salary/](https://www.paysa.com/blog/how-to-negotiate-an-internship-salary/)
+* [Salary Negotiation: how not to set a bunch of money on fire](https://www.freecodecamp.org/news/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b/)
+* [Is it appropriate to negotiate for an internship position?](https://workplace.stackexchange.com/questions/12807/is-it-appropriate-to-negotiate-for-an-internship-position)
+* [How to Negotiate an Internship Salary](https://www.paysa.com/blog/how-to-negotiate-an-internship-salary/)
 
