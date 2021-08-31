@@ -8,7 +8,7 @@ You can start by checking out our [guide to your internship search here](https:/
 This post was originally adapted from [this post](https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a) by Tatiana Doyle.
 {% endhint %}
 
-### Common Mistakes <a id="Common-Mistakes"></a>
+## Common Mistakes <a id="Common-Mistakes"></a>
 
 Common mistakes to be mindful of when first searching for an internship or co-op:
 
@@ -18,7 +18,7 @@ Common mistakes to be mindful of when first searching for an internship or co-op
 * Not doing any side projects
 * Not utilizing your network or trying to expand it
 
-### Key Takeaways <a id="Key-Takeaways"></a>
+## Key Takeaways <a id="Key-Takeaways"></a>
 
 Conversely, here are the most important takeaways for how to get an internship:
 
@@ -27,7 +27,7 @@ Conversely, here are the most important takeaways for how to get an internship:
 3. You must prepare for technical interviews
 4. Side projects transform your resume from good to great
 
-#### 1. Start the search early <a id="1-Start-the-search-early"></a>
+### 1. Start the search early <a id="1-Start-the-search-early"></a>
 
 You can start by listing all the companies whose products you used or enjoyed, and then searching “software engineering intern” on the sites and sifting through those listings for companies or posts that sounds interesting. The following sites have listings for internships and co-ops:
 
@@ -43,10 +43,10 @@ For summer internships, the recruiting season kicks off in August/September. I w
 A lot of larger companies finish their recruiting by November/December. If you’re reaching out to friends it’s great to get an early start, for example, in late August or early September. Even if you start in Spring, you can still apply all the strategies below and have a great chance of getting an internship.
 
 {% hint style="warning" %}
-The application funnel can often be more challenging than you might initially expect. Many students report applying to _100 different companies for summer software engineering internship positions_. Of those 100, it's not uncommon for students to report _getting 8-10 phone interviews_, and then for half of those \(4-5\) to advance to an on-site. You may not hear back from half of the companies you apply to. The most important thing is to not give up and to apply to enough places, stick with it, and work to get your pick of a few good options for your internship.  
+The application funnel can often be more challenging than you might initially expect. Many students report applying to _100 different companies for summer software engineering internship positions_. Of those 100, it's not uncommon for students to report _getting 8-10 phone interviews_, and then for half of those \(4-5\) to advance to an on-site. You may not hear back from half of the companies you apply to. The most important thing is to not give up and to apply to enough places, stick with it, and work to get your pick of a few good options for your internship.
 {% endhint %}
 
-#### 2. Connections are your most important tool <a id="2-Connections-are-your-most-important-tool"></a>
+### 2. Connections are your most important tool <a id="2-Connections-are-your-most-important-tool"></a>
 
 One effective way to speed up the internship search is by leveraging connections you already have, such as:
 
@@ -55,7 +55,7 @@ One effective way to speed up the internship search is by leveraging connections
 3. Professors
 4. Friends of friends who work at that company
 
-First, make sure you have an updated [LinkedIn profile](https://linkedin.com/). You want to fill out your LinkedIn profile with as much information as you can  –  treat it as a second resume.
+First, make sure you have an updated [LinkedIn profile](https://linkedin.com/). You want to fill out your LinkedIn profile with as much information as you can – treat it as a second resume.
 
 **Career Fair**
 
@@ -68,7 +68,7 @@ For any company you want to work at as an intern, you can leverage LinkedIn and 
 * Search for each company you want to work at, and see if you have any 1st or 2nd degree connections there
 * See if any other classmates have previously interned at the company and have that listed on their LinkedIn
 
-If you find a first or second degree connection that you either know or that is in your extended network, reach out to them via LinkedIn or FB Messenger and ask if they have 15 minutes for a phone call to chat. It’s important that you limit the ask to 15 minutes — it’s a small ask and doesn’t feel like a big favor for the person you’re calling.
+If you find a first or second degree connection that you either know or that is in your extended network, reach out to them via LinkedIn or FB Messenger and ask if they have 15 minutes for a phone call to chat. It’s important that you limit the ask to 15 minutes — it’s a small ask and doesn’t feel like a big favor for the person you’re calling.
 
 Often these connections can often refer you to a recruiter at that company or otherwise provide valuable advice. Reaching out to people who work full time at these companies in your network is also valuable.
 
@@ -102,7 +102,7 @@ Questions like these can be a great way to get a better understanding of what it
 
 But if you’re looking for an internship, there’s one question that is especially helpful: How can I stand out in the intern application process for X company? This question is great because the person you’re on the phone with will give you advice on how to get an internship there, and potentially offer to connect you with a recruiter or even refer you to their company.
 
-#### 3. You must prepare for technical interviews <a id="3-You-must-prepare-for-technical-interviews"></a>
+### 3. You must prepare for technical interviews <a id="3-You-must-prepare-for-technical-interviews"></a>
 
 As part of most internships and software roles, you’ll often be asked three types of questions during the interview process:
 
@@ -112,7 +112,7 @@ As part of most internships and software roles, you’ll often be asked three ty
 
 Check out this [internship interview guide here](../technical-interviewing/technical-interviewing-guide.md) for a look at all the details on how to prepare and what to expect. To learn more about the coding interviews specifically, check out our [guide on studying for coding interviews](../technical-interviewing/studying-for-tech-interviews/).
 
-#### 4. Side projects transform your resume from good to great <a id="4-Side-projects-transform-your-resume-from-good-to-great"></a>
+### 4. Side projects transform your resume from good to great <a id="4-Side-projects-transform-your-resume-from-good-to-great"></a>
 
 Side projects outside of school class work of all types can be an excellent way to differentiate and deepen your experience and signal to companies that you will be a good fit for an internship. Projects might include:
 
@@ -127,7 +127,7 @@ For inspiration, check [here](https://github.com/karan/Projects) and [here](http
 
 You can pick any of these ways or many others to start building your out of class project portfolio. Make sure that you list and describe the most notable of your projects on your resume and your LinkedIn, and put the projects onto [Github](https://github.com/) with a clear README describing the project where feasible.
 
-### Attribution <a id="Attribution"></a>
+## Attribution <a id="Attribution"></a>
 
 This post was adapted from [FreeCodeCamp](https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a) by Tatiana Doyle
 

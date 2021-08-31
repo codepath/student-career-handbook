@@ -29,7 +29,7 @@ You can check out our [skills and knowledge tree](../../skills-and-knowledge-tre
 
 Although many students don’t start thinking about developing a personal brand and networking in the technology industry until later in their career, there are many ways to do that. Here are a few ways to get started:
 
-* Take [CodePath classes](https://codepath.org/classes), as many as you can 😄 ****and meet mentors and students through these programs. Become a student leader, and teach other students to push forward your mastery.
+* Take [CodePath classes](https://codepath.org/classes), as many as you can 😄 _\*\*_and meet mentors and students through these programs. Become a student leader, and teach other students to push forward your mastery.
 * Start a blog \(or [post on medium](https://medium.com/)\) where you share concepts and journal concepts you are learning. Cover anything you find interesting as you learn. Later when you look back, you’ll be glad you did.
 * If you can, consider attending nearby hackathons. Hackathons are a great way to meet and talk to people from various companies. You can even try to meet one of the event organizers.
 * If you can, find a way to attend software conferences or events nearby. You can often find events on [meetup.com](http://meetup.com/) or even on your campus.
@@ -158,5 +158,5 @@ For even more questions answered, jump to the following sections:
 * [On technical interviewing](on-technical-interviews.md)
 * [On miscellaneous questions](on-miscellaneous.md)
 
-or begin by reviewing the top questions below. 
+or begin by reviewing the top questions below.
 

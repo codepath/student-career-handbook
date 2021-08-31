@@ -4,14 +4,14 @@ If you never programmed at all before or if you are interested in starting with 
 
 ❗👉🏽 [Start with these Java Interactive Guides](https://www.ktbyte.com/java-tutorial/book#chapters) or these [online Java Programming Tutorials](http://tutorials.jenkov.com/java)
 
-### Where to Start <a id="Where-to-Start"></a>
+## Where to Start <a id="Where-to-Start"></a>
 
 Check out the links below first to brush up on Java:
 
 * [Start with these Java Interactive Guides](https://www.ktbyte.com/java-tutorial/book#chapters)
 * [Great online Java Programming Tutorials](http://tutorials.jenkov.com/java)
 
-### Beginner Resources <a id="Beginner-Resources"></a>
+## Beginner Resources <a id="Beginner-Resources"></a>
 
 There are plenty of other helpful resources for learning Java:
 
@@ -22,7 +22,7 @@ There are plenty of other helpful resources for learning Java:
 * [TutorialsPoint Java Guide](http://www.tutorialspoint.com/java/java_basic_syntax.htm)
 * [Java tutorial](https://hackr.io/tutorials/learn-java) - A programming community & a great place to find the best online programming courses and tutorials.
 
-### Books <a id="Books"></a>
+## Books <a id="Books"></a>
 
 For a more in-depth look, you can also check out books \(available online or in print\):
 
@@ -30,7 +30,7 @@ For a more in-depth look, you can also check out books \(available online or in 
 * [Java: A Beginners Guide](https://learning.oreilly.com/library/view/java-a-beginners/9781260440225/)
 * [Free Java Book](http://java2s.com/Book/Java/CatalogJava.htm) - Solid online book
 
-### Additional Learning Resources <a id="Additional-Learning-Resources"></a>
+## Additional Learning Resources <a id="Additional-Learning-Resources"></a>
 
 * [Best Ways to Learn Java Overview](http://www.onvard.com/tracks/best-way-to-learn-java) - Overview article
 * [Udemy Free Java Course](https://www.udemy.com/java-tutorial/) - Free videos to learn Java
@@ -38,7 +38,7 @@ For a more in-depth look, you can also check out books \(available online or in 
 * [The Java help subreddit](http://www.reddit.com/r/javahelp)
 * [The official Oracle Java tutorials](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
 
-### Intermediate Topics <a id="Intermediate-Topics"></a>
+## Intermediate Topics <a id="Intermediate-Topics"></a>
 
 Be sure to check out these particular Java topics as well:
 

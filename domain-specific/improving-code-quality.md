@@ -7,7 +7,7 @@ When coding in an interview context or when presenting code on your Github profi
 * Language conventions \(e.g., using list comprehensions in Python or async/await/promises in Javascript\)
 * Object-Oriented Design \(encapsulation, scoping, class design, etc\)
 
-### Common Checklist <a id="Common-Checklist"></a>
+## Common Checklist <a id="Common-Checklist"></a>
 
 Be sure to look out for the following things:
 
@@ -16,7 +16,7 @@ Be sure to look out for the following things:
 * Try to include at least a few comments in your code to explain intent on certain key code blocks.
 * Make sure to include some reasonable code organization into objects, methods. Avoid long blocks of complicated unorganized code.
 
-### Style Guides <a id="Style-Guides"></a>
+## Style Guides <a id="Style-Guides"></a>
 
 There are many great style guides online, you can check a few suggested language-specific ones below:
 

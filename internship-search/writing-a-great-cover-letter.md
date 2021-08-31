@@ -8,7 +8,7 @@ A “cover letter” is a one-page document written to express why you’re the 
 
 **Make sure your cover letter doesn’t have any typos!** Use [grammarly](https://grammarly.com/) and resolve all errors before sending.
 
-### Things to Include <a id="Things-to-Include"></a>
+## Things to Include <a id="Things-to-Include"></a>
 
 1. **Contact Information** – List your info and that of your target company near the top.
 2. **The “Intro” Paragraph** – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.
@@ -17,9 +17,9 @@ A “cover letter” is a one-page document written to express why you’re the 
 5. **The “Action” Paragraph** – Let the hiring manager know what times you’re available to interview. Mention you’ll follow up with them if necessary.
 6. **The “Sign-off”** – Any of “Sincerely,” “Regards,” “Best Regards,” and your name should do the trick.
 
-### Examples <a id="Examples"></a>
+## Examples <a id="Examples"></a>
 
-#### Without Experience <a id="Without-Experience"></a>
+### Without Experience <a id="Without-Experience"></a>
 
 My name is \[your name\]. Thank you for the opportunity to apply for the \[position\] role at your company. After reviewing your job description, it’s clear that you’re looking for a candidate that is extremely familiar with the responsibilities associated with the role, and can perform them confidently. Given these requirements, I am certain that I have the necessary skills to successfully do the job adeptly and perform above expectations.
 
@@ -29,7 +29,7 @@ After reviewing my resume, I hope you will agree that I am the type of competent
 
 Thank you for your consideration, and I look forward to hearing from you soon.
 
-#### With Experience <a id="With-Experience"></a>
+### With Experience <a id="With-Experience"></a>
 
 My name is \[your name\]. Thank you for the opportunity to apply for the \[position\] role at your company. After reviewing your job description, it’s clear that you’re looking for a candidate that is extremely familiar with the responsibilities associated with the role, and can perform them confidently. Given these requirements, I am certain that I have the necessary skills to successfully do the job adeptly and perform above expectations.
 
@@ -39,7 +39,7 @@ After reviewing my resume, I hope you will agree that I am the type of competent
 
 Thank you for your consideration, and I look forward to hearing from you soon.
 
-### References <a id="References"></a>
+## References <a id="References"></a>
 
 * [How to Write a Cover Letter](https://resumegenius.com/how-to-write-a-cover-letter)
 

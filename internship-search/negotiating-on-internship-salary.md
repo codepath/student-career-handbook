@@ -1,6 +1,6 @@
 # Negotiating on Internship Salary
 
-### Why students often don’t negotiate <a id="Why-students-often-don&#x2019;t-negotiate"></a>
+## Why students often don’t negotiate <a id="Why-students-often-don&#x2019;t-negotiate"></a>
 
 Many students don’t even think about negotiating salary for internships or early career positions. This is understandable for the following reasons:
 
@@ -11,7 +11,7 @@ Many students don’t even think about negotiating salary for internships or ear
 
 For this reason, the vast majority of students never even think to ask if they can negotiate a higher salary once they receive an internship offer.
 
-### Negotiating salary can be an great idea in certain cases! <a id="Negotiating-salary-can-be-an-great-idea-in-certain-cases"></a>
+## Negotiating salary can be an great idea in certain cases! <a id="Negotiating-salary-can-be-an-great-idea-in-certain-cases"></a>
 
 Even though students rarely negotiate, you might be surprised to discover that negotiating is actually a great idea, even as an intern! Building the skills and mindset to negotiate your salary early will help you feel confident negotiating later in your career as well! Remember that if you don’t advocate for yourself, often no one will.
 
@@ -19,7 +19,7 @@ Many companies view interns like any other position they are trying to fill. The
 
 If an internship is meant to be a learning opportunity, **why not start learning key skills even before you start the job?** Negotiating tech salaries will almost certainly be something you encounter in your career, and so getting some early practice by negotiating your internship salary is an important lesson.
 
-### What is market salary for software interns? <a id="What-is-market-salary-for-software-interns"></a>
+## What is market salary for software interns? <a id="What-is-market-salary-for-software-interns"></a>
 
 Generally, software interns _make between $3500-9000 a month_ with the average being $6,800. Where you are for your internship matters. Top tech cities will often pay significantly higher on average.
 
@@ -27,7 +27,7 @@ The average software intern makes $6,800 a month at the median, according to som
 
 But it’s a different story out in the tech industry’s heartland: Among the top companies in tech hubs, interns can earn up to $9,000 monthly median \(at Pinterest\). Even Tesla, which is generally at the bottom of the list, came up with a $4,500 median monthly salary for interns.
 
-### How do I know how and when to negotiate? <a id="How-do-I-know-how-and-when-to-negotiate"></a>
+## How do I know how and when to negotiate? <a id="How-do-I-know-how-and-when-to-negotiate"></a>
 
 Follow the following five steps to know how and when to negotiate your offer:
 
@@ -37,7 +37,7 @@ Follow the following five steps to know how and when to negotiate your offer:
 4. Build and Present a Proposal
 5. Have a Plan if They Say “No”
 
-#### 1. Research Tech Salaries for Interns <a id="1-Research-Tech-Salaries-for-Interns"></a>
+### 1. Research Tech Salaries for Interns <a id="1-Research-Tech-Salaries-for-Interns"></a>
 
 Before you can ask for a higher salary, you need data to support how much you should be making in an internship. Researching intern salaries at the company extending the offer and other similar-sized tech companies is a critical first step. **You will have much more negotiating power if the salary for your summer internship falls below average.**
 
@@ -46,7 +46,7 @@ Before you can ask for a higher salary, you need data to support how much you sh
 
 Think about what you find here, and compare the salary you were offered to other interns and similar companies in similar locations. And now you have the data you need to justify a bigger increase to your intern salary. But, that’s not the only data you’ll need, you’ll also want to outline your own expenses.
 
-#### 2. Outline Your Living Expenses <a id="2-Outline-Your-Living-Expenses"></a>
+### 2. Outline Your Living Expenses <a id="2-Outline-Your-Living-Expenses"></a>
 
 You’re going to want to calculate your cost-of-living expenses to demonstrate why you might need more money. Employers often neglect to consider the costs of relocation, rent, food, and other expenses when putting together a pay plan for new interns. It’s your responsibility to demonstrate exactly how much money you need to make to live comfortably in the market where the internship is based.
 
@@ -55,7 +55,7 @@ You’re going to want to calculate your cost-of-living expenses to demonstrate 
 
 Once you’ve gathered all the relevant data and done your research, you can decide if you want to begin negotiating or not based on the offer given.
 
-#### 3. Decide If You Want to Negotiate <a id="3-Decide-If-You-Want-to-Negotiate"></a>
+### 3. Decide If You Want to Negotiate <a id="3-Decide-If-You-Want-to-Negotiate"></a>
 
 Factor in the following to decide if you want to negotiate:
 
@@ -69,7 +69,7 @@ Many companies do have pre-designed summer internship programs that come with a 
 
 If you do ask and they ask for more information on what you were hoping to make or they want to learn more, it’s time to build and present a proposal!
 
-#### 4. Build and Present a Proposal <a id="4-Build-and-Present-a-Proposal"></a>
+### 4. Build and Present a Proposal <a id="4-Build-and-Present-a-Proposal"></a>
 
 As you likely know, there’s a big difference between asking for a raise and demonstrating that you’ve been undervalued in an offer. Asking for a raise comes from a place of feeling like you deserve more. But demonstrating your value stems from facts—relevant data supports your argument and gives you reasonable negotiating power. **Your skills and abilities are valuable tools when negotiating a salary. A greater level of experience means the company can spend less time on training, which will save it money and resources.**
 
@@ -91,19 +91,19 @@ Of course, negotiating an increase can be quite nerve-wracking. But if you follo
 3. **Anticipate follow-up questions.** Unexpected questions will undoubtedly throw you off during your presentation, so spend some time thinking about every possible question your manager may have for you during the proposal so you can prepare responses ahead of time.
 4. **Compromise when necessary.** Demanding a specific amount of money for two to three months of work will likely work against you. Be flexible and allow the employer to make a counter-offer and settle on a fair amount of compensation.
 
-#### 5. Have a Plan if They Say “No” <a id="5-Have-a-Plan-if-They-Say-&#x201C;No&#x201D;"></a>
+### 5. Have a Plan if They Say “No” <a id="5-Have-a-Plan-if-They-Say-&#x201C;No&#x201D;"></a>
 
 The truth is, you may be fully justified in asking for a higher salary, but your hiring manager may still simply say “no.” In which case, you have a tough decision to make: _Do I stick it out for the sake of the opportunity? Or do I reject the offer?_ There’s no right answer here—it’s totally up to you and dependent on your specific circumstances.
 
 However, remember that if they do say no to the increase, **they are very unlikely to rescind your offer for asking!** This almost never happens if you ask professionally and respectfully! Even if they do decline, there is no issue with still accepting the offer at the original rate. And they may even throw in a small end of summer bonus to cover living expenses!
 
-### On Your Professional Leverage <a id="On-Your-Professional-Leverage"></a>
+## On Your Professional Leverage <a id="On-Your-Professional-Leverage"></a>
 
 **Don’t undersell yourself here.** If you are a competent in technical areas, you have a lot more leverage than you might think. This increases significantly if you can prove it \(strong portfolio, previous work experiences, good interviewing skills, good project work, good GPA, etc\).
 
 Most highly talented people are on the job market a short while. After they are employed, it’s normally their terms they seek employment. So a company looking to hire them wants to get them into their system as early as possible. Internships are really good for this. If you work to make sure you are a desired candidate, you have a lot more leverage than you may give yourself credit for.
 
-### Additional Considerations <a id="Additional-Considerations"></a>
+## Additional Considerations <a id="Additional-Considerations"></a>
 
 Here are a few additional considerations and notes:
 
@@ -115,7 +115,7 @@ Here are a few additional considerations and notes:
 6. **Startups are highly like to negotiate.** They have very few rules and care tremendously about talent. SMBs are also flexible when negotiating but may be more cash strapped then other companies. Big companies are the most likely to have budget and many will be highly concerned that you might accept a role at a competitor, but some do have internal restrictions on intern salary.
 7. **Try to enjoy your negotiation!** It is a great skill to have and learn early.  Don’t negotiate just for the sake of it, but if you feel like you deserve a higher salary than this is always worth doing.
 
-### Additional Resources <a id="Additional-Resources"></a>
+## Additional Resources <a id="Additional-Resources"></a>
 
 If you receive a job offer, many engineers choose not to negotiate their offer. It’s up to every individual but for those comfortable with being upfront the vast majority of companies are more than happy to negotiate with candidates during the offer process. Review these articles for more information:
 
@@ -127,7 +127,7 @@ If you receive a job offer, many engineers choose not to negotiate their offer. 
 
 If you’ve done your research on market salaries and equity and the offer comes up short, negotiations are a great way to ensure you receive a compensation package that you feel is fair.
 
-### References <a id="References"></a>
+## References <a id="References"></a>
 
 * [Salary Negotiation: how not to set a bunch of money on fire](https://www.freecodecamp.org/news/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b/)
 * [Is it appropriate to negotiate for an internship position?](https://workplace.stackexchange.com/questions/12807/is-it-appropriate-to-negotiate-for-an-internship-position)
