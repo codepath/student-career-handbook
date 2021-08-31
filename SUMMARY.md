@@ -10,6 +10,8 @@
 * [Student Resume Guide](internship-search/student-resume-guide.md)
 * [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr_wfma_gmv8s/edit#heading=h.a6zf6udxi9hp)
 * [Resume Starter Kit](https://goo.gl/q5dp5w)
+* [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#)
+* [Behavioral Interview Worksheet](https://docs.google.com/document/d/1ferHwQBVCVAzl44WjF4XMxX9xulqY3vyYwkXEt5ZK4A/edit#heading=h.gjdgxs)
 * [Starting your Internship Search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
 * [Landing a Software Internship](internship-search/landing-software-internship.md)
 * [Finding Internships and Roles](internship-search/finding-roles.md)
