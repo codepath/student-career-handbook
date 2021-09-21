@@ -16,7 +16,7 @@ When searching for jobs, check the following “search terms”:
 
 The following sites have listings for internships and co-ops:
 
-* [Glassdoor](https://www.glassdoor.com/Job/intern-co-op-software-developer-jobs-SRCH_KO0,31.htm)
+* * [Glassdoor](https://www.glassdoor.com/Job/intern-co-op-software-developer-jobs-SRCH_KO0,31.htm)
 * [Google Jobs Listing](https://www.google.com/search?q=co-op&ibp=htl;jobs#fpstate=tldetail&htidocid=MDFPmwMQ9WPs50NaAAAAAA%3D%3D&htivrt=jobs)
 * [Paysa](https://www.paysa.com/jobs#!page=1&limit=10&sort=pay&personalized=false&title=Internship)
 * [Indeed](https://www.indeed.com/q-Software-Development-Coop-Intern-jobs.html)

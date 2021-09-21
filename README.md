@@ -15,7 +15,7 @@ The guide assumes some knowledge of certain technical terms used throughout but 
 * **Interested to understand more about a career in software engineering?** Check out [our questions answered](software-engineering/your-questions-answered/) page for answers to common questions.
 * **Interested in the specific steps you should complete while in college?** [Check out our success checklist](success-checklist.md) for a high-level overview.
 * **Interested in the skills and knowledge you’ll develop over your career as a software engineer?** [Check out the skills and knowledge map](skills-and-knowledge-tree.md) for a high-level introduction.
-* **Interested in starting or improving your resume?** Check out our [starter kit](https://goo.gl/q5dp5w) or [resume improvement guide](internship-search/student-resume-guide.md)
+* **Interested in starting or improving your resume?** Check out our [starter kit](https://goo.gl/q5dp5w) or [resume improvement guide](artifacts/student-resume-guide.md)
 * **Interested in how technical internship interviews work?** Check out our [guide to technical interviewing](technical-interviewing/technical-interviewing-guide.md) for a high-level overview.
 
 ### Overview <a id="Overview"></a>
@@ -44,7 +44,7 @@ Check out our guide [Software Engineering - Your Questions Answered](software-en
 Your internship search begins with a resume and LinkedIn profile:
 
 * If you **do not have a resume**, [check out these materials for creating one](https://goo.gl/q5dp5w) based on our template.
-* If you **already have a resume**, [check out our guide for improving your existing resume](internship-search/student-resume-guide.md).
+* If you **already have a resume**, [check out our guide for improving your existing resume](artifacts/student-resume-guide.md).
 
 ### 3. Applying for Internships <a id="3-Applying-for-Internships"></a>
 
@@ -52,7 +52,7 @@ Your next step is applying for internships, this is about finding a set of compa
 
 If you are a Sophomore or Junior, check out our [3-steps to an internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) guide for a detailed walkthrough of how to start your summer internship search.
 
-If you are a Freshman or Sophomore, apply for a few [early pre-internship summer programs](internship-search/early-internship-programs.md) which do not require much technical coding knowledge.
+If you are a Freshman or Sophomore, apply for a few [early pre-internship summer programs](internship-and-job-search-strategy/early-internship-programs.md) which do not require much technical coding knowledge.
 
 ### 4. Passing a Technical Internship Interview <a id="4-Passing-a-Technical-Internship-Interview"></a>
 
@@ -64,7 +64,7 @@ Check out our [technical internship interview guide](technical-interviewing/tech
 
 One of the best ways to increase your chances of finding great opportunities is to connect with more people: connect with new peers, recruiters and engineers. This can sometimes be difficult to do, or is put off because you don’t always know where to start.
 
-Check out our [guide on expanding your network and following up](internship-search/the-art-of-the-follow-up.md) for a concrete look into how to expand your professional network as well as your digital presence.
+Check out our [guide on expanding your network and following up](networking/the-art-of-the-follow-up/) for a concrete look into how to expand your professional network as well as your digital presence.
 
 ### Bonus 2: The Secret to Asking for a Mentor <a id="Bonus-2-The-Secret-to-Asking-for-a-Mentor"></a>
 

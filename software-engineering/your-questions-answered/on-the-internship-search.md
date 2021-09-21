@@ -2,7 +2,7 @@
 
 ### How do I prepare an effective resume?
 
-Check out our [building an effective resume guide](../../internship-search/student-resume-guide.md) for a detailed look at the most important tips and tricks.
+Check out our [building an effective resume guide](../../artifacts/student-resume-guide.md) for a detailed look at the most important tips and tricks.
 
 ### How does one become a software engineer or get themselves to that position?
 
@@ -10,5 +10,5 @@ If you are still in college, becoming a software engineer [starts with a technic
 
 ### Where can I find lists of companies and open software development internships and roles?
 
-If you are interested in finding software companies that are looking for software engineers for full-time roles and internships, check out this list of [places to find software roles online](../../internship-search/finding-roles.md). This is a great way to explore the types of software skill-sets companies are most often hiring for.
+If you are interested in finding software companies that are looking for software engineers for full-time roles and internships, check out this list of [places to find software roles online](../../internship-and-job-search-strategy/finding-roles.md). This is a great way to explore the types of software skill-sets companies are most often hiring for.
 

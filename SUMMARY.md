@@ -5,21 +5,33 @@
 * [✅ Success Checklist](success-checklist.md)
 * [🌱 Skills and Knowledge Tree](skills-and-knowledge-tree.md)
 
-## Internship Search
+## Job Application Artifacts <a id="artifacts"></a>
 
-* [Student Resume Guide](internship-search/student-resume-guide.md)
+* [Student Resume Guide](artifacts/student-resume-guide.md)
 * [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr_wfma_gmv8s/edit#heading=h.a6zf6udxi9hp)
-* [Resume Starter Kit](https://goo.gl/q5dp5w)
-* [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#)
-* [Behavioral Interview Worksheet](https://docs.google.com/document/d/1ferHwQBVCVAzl44WjF4XMxX9xulqY3vyYwkXEt5ZK4A/edit#heading=h.gjdgxs)
+* [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX_q6a2u_z0tsfABDBnmEJzQ/view)
+* [LinkedIn Checklist](https://docs.google.com/document/d/1NgOOqmOlYDujxuZtFk3o775V9osLYuaTWRDS23tbsXI/edit#heading=h.7xnsbllfc1cq)
+* [Tech Fellow Resume Language](https://docs.google.com/document/d/1-xPB-9svIjkf1ryHYjJJAeCqrubGzovR-F1euyXEtz4/edit)
+
+## Internship & Job Search Strategy
+
+* [Early Internship Programs](internship-and-job-search-strategy/early-internship-programs.md)
+* [Finding Internships and Roles](internship-and-job-search-strategy/finding-roles.md)
+* [Landing a Software Internship](internship-and-job-search-strategy/landing-software-internship.md)
+* [Get into Top Tech Companies](internship-and-job-search-strategy/getting-into-top-tech-companies.md)
 * [Starting your Internship Search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
-* [Landing a Software Internship](internship-search/landing-software-internship.md)
-* [Finding Internships and Roles](internship-search/finding-roles.md)
-* [The Art of the Follow-up](internship-search/the-art-of-the-follow-up.md)
-* [Writing a Great Cover Letter](internship-search/writing-a-great-cover-letter.md)
-* [Negotiating on Internship Salary](internship-search/negotiating-on-internship-salary.md)
-* [Early Internship Programs](internship-search/early-internship-programs.md)
-* [Navigating Work Sponsorship in the US](internship-search/navigating-work-sponsorship-in-the-us.md)
+
+## Networking
+
+* [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
+* [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#heading=h.5nyauybydqd9)
+* [The Art of the Follow-up](networking/the-art-of-the-follow-up/README.md)
+  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#)
+
+## Behavioral Interviewing
+
+* [LinkedIn's Interview Prep Platform](https://www.linkedin.com/interview-prep/)
+* [Behavioral Interview Worksheet](https://docs.google.com/document/d/1ferHwQBVCVAzl44WjF4XMxX9xulqY3vyYwkXEt5ZK4A/edit#heading=h.gjdgxs)
 
 ## Technical Interviewing
 
@@ -30,6 +42,18 @@
   * [Prep Resources, Part 2](technical-interviewing/studying-for-tech-interviews/interview-prep-resources-part-2.md)
   * [Study Game Plan](technical-interviewing/studying-for-tech-interviews/study-game-plan.md)
   * [Technical Interview Types](technical-interviewing/studying-for-tech-interviews/technical-interview-types.md)
+
+## Offer & Salary Negotiation
+
+* [Fearless Salary Negotiation \(Templates\)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
+* [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+* [Navigating Multiple Offers](https://www.forbes.com/sites/dailymuse/2015/09/21/a-guide-to-juggling-multiple-job-offers-and-coming-out-on-top/?sh=712983f560b5)
+* [Salary Negotiation for Internships](offer-and-salary-negotiation/negotiating-on-internship-salary.md)
+
+## International Students
+
+* [Top H1B Employers by Year](https://www.myvisajobs.com/)
+* [Navigating Work Sponsorship in the US](international-students/navigating-work-sponsorship-in-the-us.md)
 
 ## Software Engineering
 
@@ -56,11 +80,10 @@
 * [Intro to Graphics Programming](domain-specific/intro-to-graphics-programming.md)
 * [Diving into Web Development](domain-specific/diving-into-web-development.md)
 
-## Bonus
+## Additional Resources <a id="bonus"></a>
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
-* [Get into Top Tech Companies](bonus/getting-into-top-tech-companies.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
 * [Online Content to Explore](bonus/online-content-to-explore.md)
 * [Things Founders Should Know](bonus/things-founders-should-know.md)

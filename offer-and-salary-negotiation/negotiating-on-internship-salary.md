@@ -1,4 +1,4 @@
-# Negotiating on Internship Salary
+# Salary Negotiation for Internships
 
 ## Why students often don’t negotiate <a id="Why-students-often-don&#x2019;t-negotiate"></a>
 
@@ -11,11 +11,11 @@ Many students don’t even think about negotiating salary for internships or ear
 
 For this reason, the vast majority of students never even think to ask if they can negotiate a higher salary once they receive an internship offer.
 
-## Negotiating salary can be an great idea in certain cases! <a id="Negotiating-salary-can-be-an-great-idea-in-certain-cases"></a>
+## Negotiating salary can be a great idea in certain cases! <a id="Negotiating-salary-can-be-an-great-idea-in-certain-cases"></a>
 
-Even though students rarely negotiate, you might be surprised to discover that negotiating is actually a great idea, even as an intern! Building the skills and mindset to negotiate your salary early will help you feel confident negotiating later in your career as well! Remember that if you don’t advocate for yourself, often no one will.
+Even though students rarely negotiate, you might be surprised to discover that negotiating is actually a great idea, even as an intern! 
 
-Many companies view interns like any other position they are trying to fill. They want the best talent at a reasonable price. Most companies will set an initial salary that is competitive in order to attract the applicants they want. Ultimately, their program will be limited by their overall budget, but almost all companies can find additional funding in a pinch to hire students they want. This is doubly true if the student already has other internship offers on the table that would pay them more.
+Many companies view interns like any other position they are trying to fill; they want the best talent at a reasonable price. Most companies will set an initial salary that is competitive in order to attract the applicants they want. While limited by their overall budget, almost all companies can find additional funding in a pinch to hire students they want, **especially** if the student already has other internship offers on the table.
 
 If an internship is meant to be a learning opportunity, **why not start learning key skills even before you start the job?** Negotiating tech salaries will almost certainly be something you encounter in your career, and so getting some early practice by negotiating your internship salary is an important lesson.
 
@@ -109,7 +109,7 @@ Here are a few additional considerations and notes:
 
 1. **Some companies may be highly bureaucratic and not want to “unfairly” compensate interns at different wage levels**.  In this case, they likely will not hold it against you that you asked for a higher salary but they may not provide one either.  This is more likely at larger companies for whom being flexible isn’t worth it.
 2. **If you negotiate the right way it will almost never be held against you.** In fact a lot of companies will see this as a strength, and so even if they do not have the budget to afford the increase you are asking for they will see you as a more professional and desirable candidate.
-3. **Negotiation is best done over the phone.** If you have an offer and you’d like to ask for a higher offer, tell the employer you had some follow-up questions you wanted to go over.
+3. **Negotiation is usually more effective when done over the phone. However, you should choose email or phone depending on which you are more comfortable with.** If you have an offer and you’d like to ask for a higher offer, tell the employer you had some follow-up questions you wanted to go over on a call.
 4. **Explain your Reasoning.** It helps a ton to have another offer to base your request off of. “You offered me X.  I really like your role.  Another company I am also interested in offered me Y.  I’d really like to work for you all as I think it is a better culture fit, is there any way you could also offer me Y?”  Expect to either get Y back, something between X and Y or an apology as to why no increase can be made.
 5. **Backfiring is Rare.** The odds of this backfiring are very slim but it could happen.  There is little reason for a company to not at least allow you to accept their original offer.  The only instance where this is not the case, is if the common has a culture built on a high degree of respect, and it was expressed to you that the salary is incredibly high and non-negotiable.  In this rare instance, in can be construed as disrespectful not to accept an offer as is.  The other outlier scenario is that an employer receives a better candidate or another acceptance in the time from when you are negotiating to when you sign the current offer.  In this case they could rescind the offer as well.  Both cases are extremely rare but not unheard of.
 6. **Startups are highly like to negotiate.** They have very few rules and care tremendously about talent. SMBs are also flexible when negotiating but may be more cash strapped then other companies. Big companies are the most likely to have budget and many will be highly concerned that you might accept a role at a competitor, but some do have internal restrictions on intern salary.

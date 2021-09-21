@@ -12,17 +12,17 @@ Take things one step at a time. Try to focus your learning and time around parti
 
 **Top-level goals:**
 
-* Create an [effective resume and LinkedIn](internship-search/student-resume-guide.md) to prepare for your internship search
+* Create an [effective resume and LinkedIn](artifacts/student-resume-guide.md) to prepare for your internship search
 * Acquire [technical internship interview readiness](technical-interviewing/technical-interviewing-guide.md) for phone screens and on-site interviews
 * Acquire confidence developing in one [industry tech stack](software-engineering/software-career-tracks.md) beyond what’s taught in classes
 * Work in at least one software internship position by summer of Junior year
-* Strengthen [your professional network](internship-search/the-art-of-the-follow-up.md) with more engineers and motivated peers
+* Strengthen [your professional network](networking/the-art-of-the-follow-up/) with more engineers and motivated peers
 
 **Key action items:**
 
 * Develop an understanding of [what being a software engineer involves](software-engineering/your-questions-answered/)
 * Sign up for our “[Mobile App Design](http://codepath.org/classes/mobileappdesign)” workshop series to learn about mobile app design, how to code mobile apps, and learn from industry experts.
-* Apply for 3+ [early pre-internship summer programs](internship-search/early-internship-programs.md) \(_Freshman/Sophomore_\)
+* Apply for 3+ [early pre-internship summer programs](internship-and-job-search-strategy/early-internship-programs.md) \(_Freshman/Sophomore_\)
 * Complete a first course \(SE101 or SE102\) of our [software fundamentals course series](https://codepath.org/classes/interviewprep)
 * Complete one or more of our special topics courses \(iOS, Android, Cybersecurity, etc\)
 * Complete a second course \(SE102 or SE103\) of our [software fundamentals course](https://codepath.org/classes/interviewprep) series
