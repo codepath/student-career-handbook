@@ -15,7 +15,7 @@ The guide assumes some knowledge of certain technical terms used throughout but 
 * **Interested to understand more about a career in software engineering?** Check out [our questions answered](software-engineering/your-questions-answered/) page for answers to common questions.
 * **Interested in the specific steps you should complete while in college?** [Check out our success checklist](success-checklist.md) for a high-level overview.
 * **Interested in the skills and knowledge you’ll develop over your career as a software engineer?** [Check out the skills and knowledge map](skills-and-knowledge-tree.md) for a high-level introduction.
-* **Interested in starting or improving your resume?** Check out our [starter kit](https://goo.gl/q5dp5w) or [resume improvement guide](artifacts/student-handbook-internship-search-student-resume-guidenternship-search-student-resume-guide.md)
+* **Interested in starting or improving your resume?** Check out our [starter kit](https://goo.gl/q5dp5w) or [resume improvement guide](artifacts/student-handbook-internship-search-student-resume-guide.md)
 * **Interested in how technical internship interviews work?** Check out our [guide to technical interviewing](technical-interviewing/technical-interviewing-guide.md) for a high-level overview.
 
 ### Overview <a id="Overview"></a>
@@ -44,7 +44,7 @@ Check out our guide [Software Engineering - Your Questions Answered](software-en
 Your internship search begins with a resume and LinkedIn profile:
 
 * If you **do not have a resume**, [check out these materials for creating one](https://goo.gl/q5dp5w) based on our template.
-* If you **already have a resume**, [check out our guide for improving your existing resume](artifacts/student-handbook-internship-search-student-resume-guidenternship-search-student-resume-guide.md).
+* If you **already have a resume**, [check out our guide for improving your existing resume](artifacts/student-handbook-internship-search-student-resume-guide.md).
 
 ### 3. Applying for Internships <a id="3-Applying-for-Internships"></a>
 

@@ -12,7 +12,7 @@ Take things one step at a time. Try to focus your learning and time around parti
 
 **Top-level goals:**
 
-* Create an [effective resume and LinkedIn](artifacts/student-handbook-internship-search-student-resume-guidenternship-search-student-resume-guide.md) to prepare for your internship search
+* Create an [effective resume and LinkedIn](artifacts/student-handbook-internship-search-student-resume-guide.md) to prepare for your internship search
 * Acquire [technical internship interview readiness](technical-interviewing/technical-interviewing-guide.md) for phone screens and on-site interviews
 * Acquire confidence developing in one [industry tech stack](software-engineering/software-career-tracks.md) beyond what’s taught in classes
 * Work in at least one software internship position by summer of Junior year

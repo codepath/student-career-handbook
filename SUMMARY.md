@@ -7,7 +7,7 @@
 
 ## Job Application Artifacts <a id="artifacts"></a>
 
-* [Student Resume Guide](artifacts/student-handbook-internship-search-student-resume-guidenternship-search-student-resume-guide.md)
+* [Student Resume Guide](artifacts/student-handbook-internship-search-student-resume-guide.md)
 * [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr_wfma_gmv8s/edit#heading=h.a6zf6udxi9hp)
 * [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX_q6a2u_z0tsfABDBnmEJzQ/view)
 * [LinkedIn Checklist](https://docs.google.com/document/d/1NgOOqmOlYDujxuZtFk3o775V9osLYuaTWRDS23tbsXI/edit#heading=h.7xnsbllfc1cq)
