@@ -2,7 +2,7 @@
 
 ### How do I prepare an effective resume?
 
-Check out our [building an effective resume guide](../../artifacts/student-handbook-internship-search-student-resume-guide.md) for a detailed look at the most important tips and tricks.
+Check out our [building an effective resume guide](../../artifacts/student-resume-guide.md) for a detailed look at the most important tips and tricks.
 
 ### How does one become a software engineer or get themselves to that position?
 
