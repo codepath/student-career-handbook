@@ -32,7 +32,7 @@ First, consider the many ways people interact with software on a given day:
 
 ### Higher-Level \(Level 1 List\) <a id="Higher-Level-Level-1-List"></a>
 
-At the highest level, the most common software engineering discplines in industry can be broken down as:
+At the highest level, the most common software engineering disciplines in industry can be broken down as:
 
 * Mobile Developer \(iOS/Android\)
 * Web Developer \(Client-side / Server-side\)
@@ -57,6 +57,7 @@ This can be further expanded into more discrete roles:
 * Security \(Python/Ruby/C++\)
 * Desktop \(Windows/Mac/Linux\)
 * Test Engineer \(Selenium/Expresso\)
+* Site Reliability Engineer \(Docker/Kuberneters/Jenkins/Dynatrace/Prometheus)
 
 ### Full <a id="Full"></a>
 
@@ -178,4 +179,7 @@ This type of developer specializes in creating systems, methods, and procedures 
 
 Security developers most often write tools in scripting languages such as Python and Ruby and understand in details the many patterns used to attack software systems. More advanced security developers need to read and understand operating systems source code written in C and C++. They might also reverse engineer libraries and commercial software systems to find and exploit vulnerabilities.  
 
+#### 20 - Site Reliability Engineer <a id="20-&#x2013;-Site-Reliability-Engineer"></a>
+
+SREs keep large-scale computer services reliable. They are directly involved in modifying code in their pursuit of making systems automated. A company's SRE teams are characterized by both rapid innovation and a large acceptance of change. They are responsible for the availability, latency, monitoring, emergency response, performance, efficiency, change management, and capacity planning of application services. 
 
