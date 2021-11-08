@@ -57,7 +57,7 @@ This can be further expanded into more discrete roles:
 * Security \(Python/Ruby/C++\)
 * Desktop \(Windows/Mac/Linux\)
 * Test Engineer \(Selenium/Expresso\)
-* Site Reliability Engineer \(Docker/Kuberneters/Jenkins/Dynatrace/Prometheus)
+* Site Reliability Engineer \(Docker/Kubernetes/Jenkins/Dynatrace/Prometheus\)
 
 ### Full <a id="Full"></a>
 
