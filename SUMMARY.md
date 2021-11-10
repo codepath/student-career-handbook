@@ -5,11 +5,11 @@
 * [✅ Success Checklist](success-checklist.md)
 * [🌱 Skills and Knowledge Tree](skills-and-knowledge-tree.md)
 
-## Job Application Artifacts <a id="artifacts"></a>
+## Job Application Artifacts <a href="artifacts" id="artifacts"></a>
 
 * [Student Resume Guide](artifacts/student-resume-guide.md)
-* [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr_wfma_gmv8s/edit#heading=h.a6zf6udxi9hp)
-* [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX_q6a2u_z0tsfABDBnmEJzQ/view)
+* [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr\_wfma\_gmv8s/edit#heading=h.a6zf6udxi9hp)
+* [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX\_q6a2u\_z0tsfABDBnmEJzQ/view)
 * [LinkedIn Checklist](https://docs.google.com/document/d/1NgOOqmOlYDujxuZtFk3o775V9osLYuaTWRDS23tbsXI/edit#heading=h.7xnsbllfc1cq)
 * [Tech Fellow Resume Language](https://docs.google.com/document/d/1-xPB-9svIjkf1ryHYjJJAeCqrubGzovR-F1euyXEtz4/edit)
 
@@ -23,10 +23,10 @@
 
 ## Networking
 
-* [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
-* [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#heading=h.5nyauybydqd9)
+* [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE\_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
+* [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#heading=h.5nyauybydqd9)
 * [The Art of the Follow-up](networking/the-art-of-the-follow-up/README.md)
-  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC_1ysSr5u6aR_JkBoez1qsFmPIBX_YMfvcB_efANYk/edit#)
+  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#)
 
 ## Behavioral Interviewing
 
@@ -45,7 +45,8 @@
 
 ## Offer & Salary Negotiation
 
-* [Fearless Salary Negotiation \(Templates\)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
+* [Salary Negotiation Guide](https://docs.google.com/document/d/1Zw6gUnajdLK8SGpcz8GL0EFqfNl24BLbTkjUKa7NWTc/edit?usp=sharing)
+* [Fearless Salary Negotiation (Templates)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Navigating Multiple Offers](https://www.forbes.com/sites/dailymuse/2015/09/21/a-guide-to-juggling-multiple-job-offers-and-coming-out-on-top/?sh=712983f560b5)
 * [Salary Negotiation for Internships](offer-and-salary-negotiation/negotiating-on-internship-salary.md)
@@ -80,11 +81,10 @@
 * [Intro to Graphics Programming](domain-specific/intro-to-graphics-programming.md)
 * [Diving into Web Development](domain-specific/diving-into-web-development.md)
 
-## Additional Resources <a id="bonus"></a>
+## Additional Resources <a href="bonus" id="bonus"></a>
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
 * [Online Content to Explore](bonus/online-content-to-explore.md)
 * [Things Founders Should Know](bonus/things-founders-should-know.md)
-
