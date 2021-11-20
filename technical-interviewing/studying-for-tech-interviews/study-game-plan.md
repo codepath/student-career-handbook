@@ -1,18 +1,18 @@
 # Study Game Plan
 
-**Source**: [https://medium.com/@anjaliviramgama/the-one-year-plan-for-competitive-coding-6af53f2f719c](https://medium.com/@anjaliviramgama/the-one-year-plan-for-competitive-coding-6af53f2f719c)
+**Source**: [The One Year Plan For Cracking Coding Interviews](https://medium.com/@anjaliviramgama/the-one-year-plan-for-competitive-coding-6af53f2f719c)
 
 It can take a year to become proficient in coding interviews for getting internships at top tech companies, but it is possible with practice and a good gameplan.
 
 ### Here’s the plan:
 
-* Month 1: Big O, Arrays and Strings
+* Month 1: Big O Notation, Arrays, and Strings
 * Month 2: Linked Lists
 * Month 3: Stacks and Queues
-* Month 4: Trees
+* Month 4: Trees, Binary Search Trees, AVL Trees
 * Month 5: Hashmap, Dictionary, HashSet
 * Month 5: Graphs
-* Month 6: Recursion and Dynamic Programming
+* Month 6: Recursion, Dynamic Programming, Backtracking
 * Month 7: Sorting and Searching
 * Month 8: Reading\(about system design, scalability, PM questions, OS, threads, locks, security basics, garbage collection, etc. basically expanding your knowledge in whatever field required, depending on your target role\)
 * Month 9, 10, 11, 12: A mix of medium and hard questions in your preferred website. Practice by participating in contests, focusing on topics that you are weak at, mock interviews, etc.
