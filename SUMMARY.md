@@ -5,7 +5,7 @@
 * [✅ Success Checklist](success-checklist.md)
 * [🌱 Skills and Knowledge Tree](skills-and-knowledge-tree.md)
 
-## Job Application Artifacts <a href="artifacts" id="artifacts"></a>
+## Job Application Artifacts <a href="#artifacts" id="artifacts"></a>
 
 * [Student Resume Guide](artifacts/student-resume-guide.md)
 * [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr\_wfma\_gmv8s/edit#heading=h.a6zf6udxi9hp)
@@ -27,6 +27,7 @@
 * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#heading=h.5nyauybydqd9)
 * [The Art of the Follow-up](networking/the-art-of-the-follow-up/README.md)
   * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#)
+* [Virtual Career Fair Guide](https://docs.google.com/document/d/1KD3nO6\_yrT2SOtnb9E\_OYXFxSHHN\_e9EZjcmIbrxN-4/edit)
 
 ## Behavioral Interviewing
 
@@ -81,7 +82,7 @@
 * [Intro to Graphics Programming](domain-specific/intro-to-graphics-programming.md)
 * [Diving into Web Development](domain-specific/diving-into-web-development.md)
 
-## Additional Resources <a href="bonus" id="bonus"></a>
+## Additional Resources <a href="#bonus" id="bonus"></a>
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Technical Work while in College](bonus/technical-work-while-in-college.md)
