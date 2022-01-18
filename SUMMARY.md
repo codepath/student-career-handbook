@@ -17,6 +17,7 @@
 
 * [Early Internship Programs](internship-and-job-search-strategy/early-internship-programs.md)
 * [Finding Internships and Roles](internship-and-job-search-strategy/finding-roles.md)
+* [Information Session Guide](https://docs.google.com/document/d/1ieiH5hmv\_uzjMPu8cSVb7hTLWT4wAF1tAX2tUrIH-Rs/edit?usp=sharing)
 * [Landing a Software Internship](internship-and-job-search-strategy/landing-software-internship.md)
 * [Get into Top Tech Companies](internship-and-job-search-strategy/getting-into-top-tech-companies.md)
 * [Starting your Internship Search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
