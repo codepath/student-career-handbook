@@ -57,6 +57,7 @@
 
 * [Top H1B Employers by Year](https://www.myvisajobs.com/Reports/2021-H1B-Visa-Sponsor.aspx)
 * [Navigating Work Sponsorship in the US](international-students/navigating-work-sponsorship-in-the-us.md)
+* [International Student Job Search Guide](https://docs.google.com/document/d/1YHNJwJSG2LxIBi63KddWRZkhX1ojiZ9u68pgAvwzNy4/edit#)
 
 ## Software Engineering
 
