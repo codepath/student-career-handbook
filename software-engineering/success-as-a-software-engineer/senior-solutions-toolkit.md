@@ -1,6 +1,6 @@
 # Senior Solutions Toolkit
 
-**Source:** [https://www.zainrizvi.io/blog/whats-it-like-as-a-seni**or-engineer/**](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)\*\*\*\*
+**Source:** [https://www.zainrizvi.io/blog/whats-it-like-as-a-seni**or-engineer/**](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)****
 
 ### Introduction
 
@@ -53,7 +53,7 @@ With these ambiguous problems, sometimes the best answer can be “keep doing th
 
 To get that feedback communication is crucial. Tell people what you’re going to build before you build it and let them warn you about any pitfalls before you step into one.
 
-But collecting feedback requires a soft skill: empathy. ****Can you understand why people disagree with you? What are they valuing differently?
+But collecting feedback requires a soft skill: empathy. **** Can you understand why people disagree with you? What are they valuing differently?
 
 You may not always agree with the feedback, but you have to understand it. Only then can you move forward with a new vision that everyone can get behind.
 
@@ -61,13 +61,13 @@ You may not always agree with the feedback, but you have to understand it. Only 
 
 When given a task, ask yourself who needs to be bought in. Try to get everyone involved, informed, gather feedback, and ultimately bought into the solution.
 
-* Get your manager to agree and gather their input early  
+* Get your manager to agree and gather their input early &#x20;
 * Build consensus with the rest of your team
 * Even people outside your team who have a stake in your work
 
 You'll be tasked with things that span multiple teams. First step was talking to them all to really understand their concerns and priorities.
 
-See if you can "change the constraints", and shift a problem so that you can address concerns from all sides. Learn to say "no" to make the solution fit the given constraints. 
+See if you can "change the constraints", and shift a problem so that you can address concerns from all sides. Learn to say "no" to make the solution fit the given constraints.&#x20;
 
 ### Wrap-up
 
@@ -76,4 +76,3 @@ That’s the general flow of any project you work on at the senior levels: You r
 So how do you learn all these skills? Experience. Jump out of the nest and flap your wings. If an opportunity shows up, take it. You won’t feel ready, no one does, but that’s what makes it a learning experience.
 
 Ask for help. Listen to the answers you get. Keep trying. At the end of the project ask for feedback and use it to improve faster. You only learn these skills by practicing.
-

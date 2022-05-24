@@ -18,10 +18,10 @@ Check out this [internship interview guide](../../technical-interviewing/technic
 
 * **Real-world Javascript programming.** Specifically using frameworks like [React](https://medium.freecodecamp.org/everything-you-need-to-know-to-get-started-in-react-11311ae997cb) and [jQuery](https://jquery.com/). Javascript is used universally for building website front-ends and can now be used to build web application back-ends as well using Node.js.
 * **Native iOS and/or Android.** Specifically building and shipping native mobile apps for either iPhone or Android. Best if you are building your own app ideas and push them to the Play Store or App Store. Bonus points if you get your friends using them.
-* **Web Back-end Development**. We recommend you check out how to build web application back-ends \(server-side development\) using a language such as [Node.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) or [Ruby on Rails](https://www.railstutorial.org/book/beginning)
+* **Web Back-end Development**. We recommend you check out how to build web application back-ends (server-side development) using a language such as [Node.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express\_Nodejs) or [Ruby on Rails](https://www.railstutorial.org/book/beginning)
 * **UNIX / Command-line**. You’ll want to explore how to use the [command-line in various ways](http://matt.might.net/articles/basic-unix/) especially on the UNIX platform. You’ll be really glad you are comfortable with UNIX.
 * **Version Control / Git**. You’ll want to explore using version control systems such as [Git](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) to store and track your code. Bonus points for using Git to build a project with a few friends.
-* **Software Deployment** Part of being a full-time engineer, familiarizing yourself with the processes and tools of making the application work on a target device, whether it be a test server, production environment or a user's computer or mobile device is an essential skill. 
+* **Software Deployment** Part of being a full-time engineer, familiarizing yourself with the processes and tools of making the application work on a target device, whether it be a test server, production environment or a user's computer or mobile device is an essential skill.&#x20;
 
 You can check out our [skills and knowledge tree](../../skills-and-knowledge-tree.md) for a more detailed look. Note that no one is going to become an expert at everything, this is not a checklist to complete. Instead, **focus on exploring the areas that are most interesting to you**, and enable you to develop projects.
 
@@ -30,12 +30,12 @@ You can check out our [skills and knowledge tree](../../skills-and-knowledge-tre
 Although many students don’t start thinking about developing a personal brand and networking in the technology industry until later in their career, there are many ways to do that. Here are a few ways to get started:
 
 * Take [CodePath classes](https://codepath.org/classes), as many as you can 😄 _\*\*_and meet mentors and students through these programs. Become a student leader, and teach other students to push forward your mastery.
-* Start a blog \(or [post on medium](https://medium.com/)\) where you share concepts and journal concepts you are learning. Cover anything you find interesting as you learn. Later when you look back, you’ll be glad you did.
+* Start a blog (or [post on medium](https://medium.com/)) where you share concepts and journal concepts you are learning. Cover anything you find interesting as you learn. Later when you look back, you’ll be glad you did.
 * If you can, consider attending nearby hackathons. Hackathons are a great way to meet and talk to people from various companies. You can even try to meet one of the event organizers.
 * If you can, find a way to attend software conferences or events nearby. You can often find events on [meetup.com](http://meetup.com/) or even on your campus.
-* Contribute in small ways to open-source online to build up your real-world skills and learn from top engineers in the industry. \(Explained more below\)
+* Contribute in small ways to open-source online to build up your real-world skills and learn from top engineers in the industry. (Explained more below)
 
-You can find a more detailed write-up about [developing your professional network here](../../networking/the-art-of-the-follow-up/). Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
+You can find a more detailed write-up about [developing your professional network here](../../networking/the-art-of-the-follow-up.md). Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
 
 ### What kind of projects would look good on my resume or help me get an internship?
 
@@ -44,13 +44,13 @@ As mentioned in the previous question, side projects outside of class work of al
 * If your university supports this, getting involved with research projects can be great too. In particular, anything involving: AI / Machine Learning, Uniquitous Computing, Data Science / Visualization, Graphics, etc. Whatever you are drawn to learn more about.
 * Participating in a hackathon and building a prototype of any web or mobile project with a group
 * Developing a functional iOS or Android app around an idea and executing it all the way to publishing on the App Store or Play Store. Bonus points if you get some people using it.
-* Contribute in small ways to open-source online to build up your real-world skills and learn from top engineers in the industry. \(Explained more below\)
+* Contribute in small ways to open-source online to build up your real-world skills and learn from top engineers in the industry. (Explained more below)
 
 You can pick any of these ways or many others to start building your out of class project portfolio. Make sure that you list and describe the most notable of your projects on your resume and your LinkedIn, and put the projects onto [Github](https://github.com/) with a clear README describing the project where feasible.
 
 ### Should I focus on side projects more or focus my efforts studying for technical interviews?
 
-Ideally of course, you’d want to do some of both over your time in school. When going onsite for your first technical internship, you’ll want to make sure you feel prepared for the [standard technical internship interview](../../technical-interviewing/technical-interviewing-guide.md) outlined which will often involve some coding questions \(most often around Linked Lists, Trees and Graphs\).
+Ideally of course, you’d want to do some of both over your time in school. When going onsite for your first technical internship, you’ll want to make sure you feel prepared for the [standard technical internship interview](../../technical-interviewing/technical-interviewing-guide.md) outlined which will often involve some coding questions (most often around Linked Lists, Trees and Graphs).
 
 However, the side projects you work on, and the experience those projects provide you will both help you differentiate yourself to recruiters when you apply and also make you much better prepared to contribute once you’re in a software role.
 
@@ -60,7 +60,9 @@ We realize that finding the time to do well in your classes, study for technical
 
 **Open-source projects are free open code projects that anyone can use or contribute to from anywhere in the world.** At the heart of most modern software development is the community of open-source projects. The practice of building and maintaining open source software works because people from all over the world, of all levels, abilities, and backgrounds, form communities to support the projects they care about.
 
-{% page-ref page="../contributing-to-open-source.md" %}
+{% content-ref url="../contributing-to-open-source.md" %}
+[contributing-to-open-source.md](../contributing-to-open-source.md)
+{% endcontent-ref %}
 
 Check out our [guide to contributing to open-source](../contributing-to-open-source.md) here to learn more!
 
@@ -82,7 +84,7 @@ You can check out our [skills and knowledge tree](../../skills-and-knowledge-tre
 
 ### Do I need to enjoy and be good at math if I want to be a software engineer?
 
-While there is definitely some math involved in most Computer Science degrees in school, you might be surprised how **infrequently many software engineers use math**. There’s certain things you will encounter a lot in programming of all types such as boolean logic \(if this, then that\), arithmetic \(addition, subtraction\), percentages and fractions, basic algebra concepts \(variables\), etc.
+While there is definitely some math involved in most Computer Science degrees in school, you might be surprised how **infrequently many software engineers use math**. There’s certain things you will encounter a lot in programming of all types such as boolean logic (if this, then that), arithmetic (addition, subtraction), percentages and fractions, basic algebra concepts (variables), etc.
 
 Outside of those basic math concepts above, the amount of math you need in software engineering is entirely determined by _what you are building and doing_. There are many successful engineering roles such as web app development, front-end javascript, and mobile development that requires little to no math.
 
@@ -94,17 +96,17 @@ For more details, check out this post by Sarah Mei called [Programming is NOT MA
 
 At a high-level, the following software engineering domains are most common within the tech industry:
 
-* Web Front-end \(HTML/CSS/Javascript\)
-* Web Back-end \(Ruby/Python/Node.js\)
-* Mobile Engineer \(iOS/Android\)
-* Graphics/Games \(OpenGL/Unity\)
-* Data Scientists \(SQL/Python/R\)
-* DevOps and Infrastructure \(Jenkins/Docker/Kubernetes\)
-* Embedded Systems Programming \(C/C++/Assembly\)
-* Blockchain Systems Engineer \(C/C++\)
-* Security \(Python/Ruby/C++\)
-* Desktop Software Development \(Windows/Mac/Linux\)
-* Software Testing Engineers \(Selenium/Expresso\)
+* Web Front-end (HTML/CSS/Javascript)
+* Web Back-end (Ruby/Python/Node.js)
+* Mobile Engineer (iOS/Android)
+* Graphics/Games (OpenGL/Unity)
+* Data Scientists (SQL/Python/R)
+* DevOps and Infrastructure (Jenkins/Docker/Kubernetes)
+* Embedded Systems Programming (C/C++/Assembly)
+* Blockchain Systems Engineer (C/C++)
+* Security (Python/Ruby/C++)
+* Desktop Software Development (Windows/Mac/Linux)
+* Software Testing Engineers (Selenium/Expresso)
 
 For a more detailed breakdown of roles within the software industry, check out our [software engineering roles guide](../software-career-tracks.md).
 
@@ -123,18 +125,18 @@ At the end of the day, there are so many different companies, teams and software
 
 The following provides a rough cheatsheet of the various technical areas as a software engineer, and related languages/frameworks:
 
-| Technical Area | Related technologies/keywords |
-| :--- | :--- |
-| Web Front-end | Javascript, jQuery, Angular, React, Ember, HTML, CSS, Bootstrap |
-| Web Back-end \(Startup\) | Python, Django, Flask, Pylons, Javascript, Node.js, Express, Sails, Ruby, Rails, Sinatra |
-| Web Back-end \(Enterprise\) | Java, J2EE, JEE, Spring, Struts, Play, Grails, Scala, Lift, Go |
-| Web Back-end \(Other\) | PHP, Symfony, CakePHP, Zend, C\#, `ASP.NET`, .NET, LAMP |
-| Mobile \(Android\) | Kotlin, Java |
-| Mobile \(iOS\) | Swift, Objective-C |
-| Mobile \(Web\) | React Native, Javascript, Cordova, Sencha Touch |
-| Data Science | Python, R, Matlab, NumPy, SciPi, TensorFlow |
-| Desktop | Javascript, Electron, WPF, Cocoa, wxWidgets, Kivy |
-| General | C, C++, Go, Assembly, Rust, C/C++, VHDL, Verilog |
+| Technical Area            | Related technologies/keywords                                                            |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| Web Front-end             | Javascript, jQuery, Angular, React, Ember, HTML, CSS, Bootstrap                          |
+| Web Back-end (Startup)    | Python, Django, Flask, Pylons, Javascript, Node.js, Express, Sails, Ruby, Rails, Sinatra |
+| Web Back-end (Enterprise) | Java, J2EE, JEE, Spring, Struts, Play, Grails, Scala, Lift, Go                           |
+| Web Back-end (Other)      | PHP, Symfony, CakePHP, Zend, C#, `ASP.NET`, .NET, LAMP                                   |
+| Mobile (Android)          | Kotlin, Java                                                                             |
+| Mobile (iOS)              | Swift, Objective-C                                                                       |
+| Mobile (Web)              | React Native, Javascript, Cordova, Sencha Touch                                          |
+| Data Science              | Python, R, Matlab, NumPy, SciPi, TensorFlow                                              |
+| Desktop                   | Javascript, Electron, WPF, Cocoa, wxWidgets, Kivy                                        |
+| General                   | C, C++, Go, Assembly, Rust, C/C++, VHDL, Verilog                                         |
 
 This is intended to give you a rough sense of the technical landscape, and by no means is comprehensive. There are hundreds of active programming languages and frameworks still being used today across the world.
 
@@ -159,4 +161,3 @@ For even more questions answered, jump to the following sections:
 * [On miscellaneous questions](on-miscellaneous.md)
 
 or begin by reviewing the top questions below.
-

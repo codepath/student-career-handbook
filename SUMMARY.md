@@ -7,7 +7,7 @@
 
 ## Job Application Artifacts <a href="#artifacts" id="artifacts"></a>
 
-* [Student Resume Guide](artifacts/student-resume-guide.md)
+* [Resume Writing Guide](artifacts/student-resume-guide.md)
 * [Resume Checklist & Formats](https://docs.google.com/document/d/1TDGkSD5l--GjKu56jw6frHmjr075QHbr\_wfma\_gmv8s/edit#heading=h.a6zf6udxi9hp)
 * [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX\_q6a2u\_z0tsfABDBnmEJzQ/view)
 * [LinkedIn Checklist](https://docs.google.com/document/d/1NgOOqmOlYDujxuZtFk3o775V9osLYuaTWRDS23tbsXI/edit#heading=h.7xnsbllfc1cq)
@@ -16,19 +16,18 @@
 
 ## Internship & Job Search Strategy
 
-* [Early Internship Programs](internship-and-job-search-strategy/early-internship-programs.md)
-* [Finding Internships and Roles](internship-and-job-search-strategy/finding-roles.md)
-* [Information Session Guide](https://docs.google.com/document/d/1ieiH5hmv\_uzjMPu8cSVb7hTLWT4wAF1tAX2tUrIH-Rs/edit?usp=sharing)
-* [Landing a Software Internship](internship-and-job-search-strategy/landing-software-internship.md)
-* [Get into Top Tech Companies](internship-and-job-search-strategy/getting-into-top-tech-companies.md)
+* [Getting Technical Experience In College](internship-and-job-search-strategy/technical-work-while-in-college.md)
+* [Early Internship Programs for 1st/2nd Year Students](internship-and-job-search-strategy/early-internship-programs.md)
 * [Starting your Internship Search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
+* [Finding Internships and Roles](internship-and-job-search-strategy/finding-roles.md)
+* [Landing a Software Internship](internship-and-job-search-strategy/landing-software-internship.md)
+* [Getting into Top Tech Companies](internship-and-job-search-strategy/getting-into-top-tech-companies.md)
 
 ## Networking
 
 * [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE\_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
 * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#heading=h.5nyauybydqd9)
-* [The Art of the Follow-up](networking/the-art-of-the-follow-up/README.md)
-  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit)
+* [The Art of the Follow-up](networking/the-art-of-the-follow-up.md)
 * [Virtual Career Fair Guide](https://docs.google.com/document/d/1KD3nO6\_yrT2SOtnb9E\_OYXFxSHHN\_e9EZjcmIbrxN-4/edit)
 
 ## Behavioral Interviewing
@@ -88,7 +87,6 @@
 ## Additional Resources <a href="#bonus" id="bonus"></a>
 
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
-* [Technical Work while in College](bonus/technical-work-while-in-college.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
 * [Online Content to Explore](bonus/online-content-to-explore.md)
 * [Things Founders Should Know](bonus/things-founders-should-know.md)
