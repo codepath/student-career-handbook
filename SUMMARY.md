@@ -12,6 +12,7 @@
 * [Cover Letter Guide](https://docs.google.com/document/d/1LCn4cOA8FwSQDhfG0xAXX\_q6a2u\_z0tsfABDBnmEJzQ/view)
 * [LinkedIn Checklist](https://docs.google.com/document/d/1NgOOqmOlYDujxuZtFk3o775V9osLYuaTWRDS23tbsXI/edit#heading=h.7xnsbllfc1cq)
 * [Tech Fellow Resume Language](https://docs.google.com/document/d/1-xPB-9svIjkf1ryHYjJJAeCqrubGzovR-F1euyXEtz4/edit)
+* [GitHub Checklist](https://docs.google.com/document/d/1-sti9cKekesOyVTeuMyKyDXyWVgN2\_JbbxP-e6r5PB4/edit#heading=h.es3agud5kvq4)
 
 ## Internship & Job Search Strategy
 
@@ -27,7 +28,7 @@
 * [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE\_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
 * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#heading=h.5nyauybydqd9)
 * [The Art of the Follow-up](networking/the-art-of-the-follow-up/README.md)
-  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#)
+  * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit)
 * [Virtual Career Fair Guide](https://docs.google.com/document/d/1KD3nO6\_yrT2SOtnb9E\_OYXFxSHHN\_e9EZjcmIbrxN-4/edit)
 
 ## Behavioral Interviewing
@@ -57,7 +58,7 @@
 
 * [Top H1B Employers by Year](https://www.myvisajobs.com/Reports/2021-H1B-Visa-Sponsor.aspx)
 * [Navigating Work Sponsorship in the US](international-students/navigating-work-sponsorship-in-the-us.md)
-* [International Student Job Search Guide](https://docs.google.com/document/d/1YHNJwJSG2LxIBi63KddWRZkhX1ojiZ9u68pgAvwzNy4/edit#)
+* [International Student Job Search Guide](https://docs.google.com/document/d/1YHNJwJSG2LxIBi63KddWRZkhX1ojiZ9u68pgAvwzNy4/edit)
 
 ## Software Engineering
 
