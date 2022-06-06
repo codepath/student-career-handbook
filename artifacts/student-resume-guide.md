@@ -23,12 +23,12 @@ Flashy resume builders don't always make editing and saving different versions o
 **Things to include:**
 
 * Languages, frameworks, platforms and tools that you are most familiar with and that are asked for in the job description (Make sure everything you list is something you'd be comfortable speaking about)
-* Projects (3-4...prioritizing side projects over academic projects). Include a link for each project (to GitHub repo, deployed version, blog, app in store, etc.) if you can
-* Include links to your GitHub, LinkedIn and a website (if applicable)
+* Projects (3-4...prioritizing side projects over academic projects). 
+  * Include projects that showcase things you’re passionate about and your technical experience. 
+  * Include a link for each project (to GitHub repo, deployed version, blog, app in store, etc.) if you can
+* Include links to your GitHub, LinkedIn and a web portfolio/website (if applicable)
 * If either cumulative GPA and your major GPA are close to or above 3.5, you should include!
 * Include the languages, frameworks, platforms and tools that you are most familiar with
-* Include projects that showcase things you’re passionate about and your technical experience. Include a link for each project if you can.
-* Include links to your GitHub, LinkedIn and a website (if applicable)
 * Look at the job description and make sure to include relevant skills/experiences. E.g. if you’re applying for a mobile role and you’ve used languages they’re asking for, make sure to list them in the work/project descriptions!
 
 **Making your resume easy to scan:**
@@ -48,7 +48,7 @@ Flashy resume builders don't always make editing and saving different versions o
 
 #### Including CodePath on your resume:
 
-* **Tech Fellows:** [Check out this guide ](https://docs.google.com/document/d/1xpwOZGWf-QJf7gtSWWqb72HhUxEAsNdrYTdv\_W9mwf8/edit?usp=sharing)demonstrating how to add your leadership experience to your resume.
+* **Tech Fellows:** [Check out this guide ](https://docs.google.com/document/d/1xpwOZGWf-QJf7gtSWWqb72HhUxEAsNdrYTdv\_W9mwf8/edit?usp=sharing) demonstrating how to add your leadership experience to your resume.
 * **If you took a course where you did not build a project:** You can list yourself as a CodePath course alum under "Relevant Training", "Activities", "Relevant Coursework" or "Certifications".
 * **If you built projects in our courses:** Include those in a “Projects” section alongside other portfolio pieces. Be sure to describe the project (“Built and published a functional Instagram-like Android app which allows users to share photos with friends and family”) **and** include a link to the GitHub repo.
 
