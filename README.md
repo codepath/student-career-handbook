@@ -64,7 +64,7 @@ Check out our [technical internship interview guide](technical-interviewing/tech
 
 One of the best ways to increase your chances of finding great opportunities is to connect with more people: connect with new peers, recruiters and engineers. This can sometimes be difficult to do, or is put off because you don’t always know where to start.
 
-Check out our [guide on expanding your network and following up](networking/the-art-of-the-follow-up.md) for a concrete look into how to expand your professional network as well as your digital presence.
+Check out our [guide on expanding your network and following up](networking-and-communication/the-art-of-the-follow-up.md) for a concrete look into how to expand your professional network as well as your digital presence.
 
 ### Bonus 2: The Secret to Asking for a Mentor <a href="#bonus-2-the-secret-to-asking-for-a-mentor" id="bonus-2-the-secret-to-asking-for-a-mentor"></a>
 

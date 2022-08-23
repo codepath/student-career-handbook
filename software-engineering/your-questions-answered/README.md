@@ -35,7 +35,7 @@ Although many students don’t start thinking about developing a personal brand 
 * If you can, find a way to attend software conferences or events nearby. You can often find events on [meetup.com](http://meetup.com/) or even on your campus.
 * Contribute in small ways to open-source online to build up your real-world skills and learn from top engineers in the industry. (Explained more below)
 
-You can find a more detailed write-up about [developing your professional network here](../../networking/the-art-of-the-follow-up.md). Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
+You can find a more detailed write-up about [developing your professional network here](../../networking-and-communication/the-art-of-the-follow-up.md). Be mindful that no one achieves all of these things at once, and this is **not a checklist to complete**. You may find you dislike hackathons, or dislike certain clubs or meetups. This is entirely normal, explore around and find what works for you.
 
 ### What kind of projects would look good on my resume or help me get an internship?
 

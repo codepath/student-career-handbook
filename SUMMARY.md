@@ -23,12 +23,13 @@
 * [Landing a Software Internship](internship-and-job-search-strategy/landing-software-internship.md)
 * [Getting into Top Tech Companies](internship-and-job-search-strategy/getting-into-top-tech-companies.md)
 
-## Networking
+## Networking and communication
 
 * [Networking Guide & Templates](https://docs.google.com/document/d/1BehKTrQWek7J2Q5Lq53hE\_jUOiZbyToS3CORMg15ZOE/edit?usp=sharing)
 * [Elevator Pitch Worksheet](https://docs.google.com/document/d/1UC\_1ysSr5u6aR\_JkBoez1qsFmPIBX\_YMfvcB\_efANYk/edit#heading=h.5nyauybydqd9)
-* [The Art of the Follow-up](networking/the-art-of-the-follow-up.md)
+* [The Art of the Follow-up](networking-and-communication/the-art-of-the-follow-up.md)
 * [Virtual Career Fair Guide](https://docs.google.com/document/d/1KD3nO6\_yrT2SOtnb9E\_OYXFxSHHN\_e9EZjcmIbrxN-4/edit)
+* [Professional Communication](https://docs.google.com/document/d/16lX\_U8immOVgrf9hRXv4AcuOr5Z\_\_4oEnn2QG36kThE/edit?usp=sharing)
 
 ## Behavioral Interviewing
 
