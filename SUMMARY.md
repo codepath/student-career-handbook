@@ -87,6 +87,7 @@
 
 ## Additional Resources <a href="#bonus" id="bonus"></a>
 
+* [Career Center Policies](https://docs.google.com/document/d/1VXWUOJ7uiBGviKiURrvW\_jSTDUGPKKfSA-GM\_xvBII4/edit)
 * [Guide to Finding a Mentor](bonus/finding-a-mentor.md)
 * [Learning Computer Science](bonus/learning-cs-online.md)
 * [Online Content to Explore](bonus/online-content-to-explore.md)
