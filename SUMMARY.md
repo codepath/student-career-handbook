@@ -30,6 +30,7 @@
 * [The Art of the Follow-up](networking-and-communication/the-art-of-the-follow-up.md)
 * [Virtual Career Fair Guide](https://docs.google.com/document/d/1KD3nO6\_yrT2SOtnb9E\_OYXFxSHHN\_e9EZjcmIbrxN-4/edit)
 * [Professional Communication](https://docs.google.com/document/d/16lX\_U8immOVgrf9hRXv4AcuOr5Z\_\_4oEnn2QG36kThE/edit?usp=sharing)
+* [Resources & Communities for Diverse Job-Seekers](https://deliveryteam.notion.site/6558d14e2dc74c5086ea54121aefe0b6?v=0ed401ef5a8b4987a6dad96e858b2a05)
 
 ## Behavioral Interviewing
 
