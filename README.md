@@ -1,5 +1,9 @@
 # 👋🏾 Introduction
 
+_<mark style="background-color:orange;">----</mark>_\
+_<mark style="background-color:orange;">**Hi there! This handbook has been replaced by the**</mark>_ :arrow\_right: [_**CodePath Career Kit**_](https://go.codepath.org/careerkit) :arrow\_left:_**. **<mark style="background-color:orange;">**You're welcome to continue to use the handbook if you prefer the format, but you can find all newer resources**</mark>_ [_<mark style="background-color:orange;">**here**</mark>_](https://go.codepath.org/careerkit)_<mark style="background-color:orange;">**.**</mark>_\
+_<mark style="background-color:orange;">**---**</mark>_\
+\
 👋🏾 Welcome to our [CodePath.org](http://codepath.org/) Career Center Resources! ✨The goal of these guides is to demystify the software engineering field and how to set yourself up for success to become a software engineer or in other related positions after you graduate.
 
 ### Who is this guide for? <a href="#who-is-this-guide-for" id="who-is-this-guide-for"></a>
@@ -33,20 +37,20 @@ There are four major areas we want to help students navigate:
 ❗To sign up for these programs, check out our [student career page here](https://codepath.org/career) to get setup with a mentor, learn more about virtual career fairs, and see what other services we provide for our students!
 {% endhint %}
 
-### 1. Career Exploration <a href="#1-career-exploration" id="1-career-exploration"></a>
+### 1. Career Exploration <a href="#id-1-career-exploration" id="id-1-career-exploration"></a>
 
 Many students at university have a lot of questions surrounding the overall technical landscape of being a software engineer, including what classes to take, what to do outside of class, what it’s like being a software engineer or even how to get started contributing in open-source.
 
 Check out our guide [Software Engineering - Your Questions Answered](software-engineering/your-questions-answered/) for a detailed overview of your most common questions.
 
-### 2. Developing your Resume <a href="#2-developing-your-resume" id="2-developing-your-resume"></a>
+### 2. Developing your Resume <a href="#id-2-developing-your-resume" id="id-2-developing-your-resume"></a>
 
 Your internship search begins with a resume and LinkedIn profile:
 
 * If you **do not have a resume**, [check out these materials for creating one](https://goo.gl/q5dp5w) based on our template.
 * If you **already have a resume**, [check out our guide for improving your existing resume](artifacts/student-resume-guide.md).
 
-### 3. Applying for Internships <a href="#3-applying-for-internships" id="3-applying-for-internships"></a>
+### 3. Applying for Internships <a href="#id-3-applying-for-internships" id="id-3-applying-for-internships"></a>
 
 Your next step is applying for internships, this is about finding a set of companies and applying to them, and attending career fairs in order to set up a number of internship interviews:
 
@@ -54,7 +58,7 @@ If you are a Sophomore or Junior, check out our [3-steps to an internship search
 
 If you are a Freshman or Sophomore, apply for a few [early pre-internship summer programs](internship-and-job-search-strategy/early-internship-programs.md) which do not require much technical coding knowledge.
 
-### 4. Passing a Technical Internship Interview <a href="#4-passing-a-technical-internship-interview" id="4-passing-a-technical-internship-interview"></a>
+### 4. Passing a Technical Internship Interview <a href="#id-4-passing-a-technical-internship-interview" id="id-4-passing-a-technical-internship-interview"></a>
 
 After you apply to enough companies, you’ll need to make sure you are prepared for the technical interviews associated with the companies that respond back positively:
 

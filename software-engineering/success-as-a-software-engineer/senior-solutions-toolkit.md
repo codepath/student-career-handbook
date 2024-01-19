@@ -1,6 +1,6 @@
 # Senior Solutions Toolkit
 
-**Source:** [https://www.zainrizvi.io/blog/whats-it-like-as-a-seni**or-engineer/**](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)****
+**Source:** [https://www.zainrizvi.io/blog/whats-it-like-as-a-seni**or-engineer/**](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)
 
 ### Introduction
 
@@ -53,7 +53,7 @@ With these ambiguous problems, sometimes the best answer can be “keep doing th
 
 To get that feedback communication is crucial. Tell people what you’re going to build before you build it and let them warn you about any pitfalls before you step into one.
 
-But collecting feedback requires a soft skill: empathy. **** Can you understand why people disagree with you? What are they valuing differently?
+But collecting feedback requires a soft skill: empathy. Can you understand why people disagree with you? What are they valuing differently?
 
 You may not always agree with the feedback, but you have to understand it. Only then can you move forward with a new vision that everyone can get behind.
 
